@@ -197,50 +197,49 @@
 
 #### End-to-End (Paradigms) Models
 
-- [2024/04] **CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations** [[paper](https://arxiv.org/abs/2404.06690)][[code](https://github.com/vivian556123/NeurIPS2024-CoVoMix)][[demo](https://www.microsoft.com/en-us/research/project/covomix/)] *multi-round dialogue speech generation* :heavy_check_mark:
-- [2024/08] **Style-Talker: Finetuning Audio Language Model and StyleBased Text-to-Speech Model for Fast Spoken Dialogue Generation** [[paper](https://arxiv.org/abs/2408.11849)][[code](https://github.com/xi-j/Style-Talker)][[demo](https://styletalker.github.io/)] *`Code Comming Soon`*
-- [2024/08] **DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance** [[paper](https://arxiv.org/abs/2408.14423)][[demo](https://dualspeech.notion.site/DualSpeech-Demo-25fcf06ea94b4a739094d828d400542d)]
-- [2024/03] **WavLLM: Towards Robust and Adaptive Speech Large Language Model** [[paper](https://arxiv.org/abs/2404.00656)][[code](https://github.com/microsoft/SpeechT5/tree/main/WavLLM)] :heavy_check_mark:
-- [2024/02] **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling** [[paper](https://arxiv.org/abs/2402.12226)][[code](https://github.com/OpenMOSS/AnyGPT)][[demo](https://junzhan2000.github.io/AnyGPT.github.io/)] :heavy_check_mark:
-- [2024/02] **Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities** [[paper](https://arxiv.org/abs/2402.01831)][[code](https://github.com/NVIDIA/audio-flamingo)][[demo](https://audioflamingo.github.io/)] :heavy_check_mark:
-- [2024/06] **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities** [[paper](https://arxiv.org/abs/2406.11768)][[code](https://github.com/Sreyan88/GAMA)][[demo](https://sreyan88.github.io/gamaaudio/)] :heavy_check_mark:
-- [2024/07] **Generative Expressive Conversational Speech Synthesis** [[paper](https://arxiv.org/abs/2407.21491)][[code](https://github.com/walker-hyf/GPT-Talker)] *GPT-Talker* ｜ *GPT for response and Style, VITS for audio* :heavy_check_mark:
-- [2023/05] **SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities** [[paper](https://arxiv.org/abs/2305.11000)][[code](https://github.com/0nutation/SpeechGPT)][[demo](https://0nutation.github.io/SpeechGPT.github.io/)] :heavy_check_mark:
-- [2024/01] **SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation** [[paper](https://arxiv.org/abs/2401.13527)][[demo](https://0nutation.github.io/SpeechGPT-Gen.github.io/)] *`Code Comming Soon`*
-- [????/??] **SpeechGPT2: End-to-End Human-Like Spoken Chatbot** [[paper]()][[code](https://github.com/0nutation/SpeechGPT)][[demo](https://0nutation.github.io/SpeechGPT2.github.io/)] *paper & `Code Comming Soon` | speech interaction model*
-- [2024/08] **Language Model Can Listen While Speaking** [[paper](https://arxiv.org/abs/2408.02622)][[demo](https://ziyang.tech/LSLM/)] *Full Duplex Modeling | speech interaction model*
-- [2024/08] **Speech To Speech: an effort for an open-sourced and modular GPT4-o** [[code](https://github.com/huggingface/speech-to-speech)] *End-to-End | speech interaction model* :heavy_check_mark:
-- [2024/08] **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** [[paper](https://arxiv.org/abs/2408.16725)][[code](https://github.com/gpt-omni/mini-omni)] *End-to-End | speech interaction model* :heavy_check_mark:
-- [2024/09] **EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions** [[paper](https://arxiv.org/abs/2409.18042)][[demo](https://emova-ollm.github.io/)]
-- [2024/09] **LLaMA-Omni: Seamless Speech Interaction with Large Language Models** [[paper](https://arxiv.org/abs/2409.06666)][[code](https://github.com/ictnlp/LLaMA-Omni)][[demo](https://replicate.com/ictnlp/llama-omni)] *only english* :heavy_check_mark:
-- [2024/09] **Moshi: a speech-text foundation model for real time dialogue** [[paper](https://kyutai.org/Moshi.pdf)][[code](https://github.com/kyutai-labs/moshi)][[demo](https://moshi.chat/)] *low delay* | *only english* :heavy_check_mark:
-- [2024/09] **Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control** [[paper](https://arxiv.org/abs/2409.17452)][[demo](https://r9y9.github.io/projects/nansyttspp/)]
-- [2024/09] **Westlake-Omni: Open-Source Chinese Emotional Speech Interaction Large Language Model with Unified Discrete Sequence Modeling** [[code](https://github.com/xinchen-ai/Westlake-Omni)] :heavy_check_mark:
-- [2024/10] **OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation** [[paper](https://arxiv.org/abs/2410.17799)][[demo](https://omniflatten.github.io/)] *`Code Comming Soon`*
-- [2024/10] **IntrinsicVoice: Empowering LLMs with Intrinsic Real-time Voice Interaction Abilities** [[paper](https://arxiv.org/abs/2410.08035)][[demo](https://instrinsicvoice.github.io/)] *reducing the length difference between speech and text*
-- [2024/10] **Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities** [[paper](https://arxiv.org/abs/2410.11190)][[code](https://github.com/gpt-omni/mini-omni2)] :heavy_check_mark:
-- [2024/11] **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM** [[paper](https://arxiv.org/abs/2411.00774)][[demo](https://freeze-omni.github.io/)][[code](https://github.com/VITA-MLLM/Freeze-Omni)] *frozen llm in training* :heavy_check_mark:
-- [2024/11] **hertz-dev** [[code](https://github.com/Standard-Intelligence/hertz-dev)] :heavy_check_mark:
-- [2024/11] **Building a Taiwanese Mandarin Spoken Language Model: A First Attempt** [[paper](https://arxiv.org/abs/2411.07111)][[code](https://github.com/nervjack2/SpeechChatGPTStreaming/)] *`Code Comming Soon`*
-- [2024/11] **SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation** [[paper](https://arxiv.org/abs/2411.18138)] *Code Comming Soon* | *free-codec*
-- [2024/11] **MooER: Moore-threads Open Omni model for speech-to-speech intERaction** [[code](https://github.com/MooreThreads/MooER)] `Paper Comming Soon`
-- [2024/12] **GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot** [[paper](https://www.arxiv.org/abs/2412.02612)][[code](https://github.com/THUDM/GLM-4-Voice)] *speech interaction model & emotion, intonation, speech rate, and dialect & low latency* :heavy_check_mark:
-- [2024/02] **Paralinguistics-Aware Speech-Empowered LLMs for Natural Conversation** [[paper](https://arxiv.org/abs/2402.05706)][[code](https://github.com/naver-ai/usdm)][[demo](https://unifiedsdm.github.io/)] *learning cross-modal distributional semantics* :heavy_check_mark:
+- [2024/12] **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training** [[paper](https://arxiv.org/abs/2412.15649)][[demo](https://slam-omni.github.io/)]
 - [2024/12] **Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners** [[paper](https://arxiv.org/abs/2412.04917)][[demo](https://cognitivespeech.github.io/flowomni)] *Flow-Omni, continuous speech tokens*
-
+- [2024/02] **Paralinguistics-Aware Speech-Empowered LLMs for Natural Conversation** [[paper](https://arxiv.org/abs/2402.05706)][[code](https://github.com/naver-ai/usdm)][[demo](https://unifiedsdm.github.io/)] *learning cross-modal distributional semantics* :heavy_check_mark:
+- [2024/12] **GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot** [[paper](https://www.arxiv.org/abs/2412.02612)][[code](https://github.com/THUDM/GLM-4-Voice)] *speech interaction model & emotion, intonation, speech rate, and dialect & low latency* :heavy_check_mark:
+- [2024/11] **MooER: Moore-threads Open Omni model for speech-to-speech intERaction** [[code](https://github.com/MooreThreads/MooER)] `Paper Comming Soon`
+- [2024/11] **SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation** [[paper](https://arxiv.org/abs/2411.18138)] *Code Comming Soon* | *free-codec*
+- [2024/11] **Building a Taiwanese Mandarin Spoken Language Model: A First Attempt** [[paper](https://arxiv.org/abs/2411.07111)][[code](https://github.com/nervjack2/SpeechChatGPTStreaming/)] *`Code Comming Soon`*
+- [2024/11] **hertz-dev** [[code](https://github.com/Standard-Intelligence/hertz-dev)] :heavy_check_mark:
+- [2024/11] **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM** [[paper](https://arxiv.org/abs/2411.00774)][[demo](https://freeze-omni.github.io/)][[code](https://github.com/VITA-MLLM/Freeze-Omni)] *frozen llm in training* :heavy_check_mark:
+- [2024/10] **Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities** [[paper](https://arxiv.org/abs/2410.11190)][[code](https://github.com/gpt-omni/mini-omni2)] :heavy_check_mark:
+- [2024/10] **IntrinsicVoice: Empowering LLMs with Intrinsic Real-time Voice Interaction Abilities** [[paper](https://arxiv.org/abs/2410.08035)][[demo](https://instrinsicvoice.github.io/)] *reducing the length difference between speech and text*
+- [2024/10] **OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation** [[paper](https://arxiv.org/abs/2410.17799)][[demo](https://omniflatten.github.io/)] *`Code Comming Soon`*
+- [2024/09] **Westlake-Omni: Open-Source Chinese Emotional Speech Interaction Large Language Model with Unified Discrete Sequence Modeling** [[code](https://github.com/xinchen-ai/Westlake-Omni)] :heavy_check_mark:
+- [2024/09] **Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control** [[paper](https://arxiv.org/abs/2409.17452)][[demo](https://r9y9.github.io/projects/nansyttspp/)]
+- [2024/09] **Moshi: a speech-text foundation model for real time dialogue** [[paper](https://kyutai.org/Moshi.pdf)][[code](https://github.com/kyutai-labs/moshi)][[demo](https://moshi.chat/)] *low delay* | *only english* :heavy_check_mark:
+- [2024/09] **LLaMA-Omni: Seamless Speech Interaction with Large Language Models** [[paper](https://arxiv.org/abs/2409.06666)][[code](https://github.com/ictnlp/LLaMA-Omni)][[demo](https://replicate.com/ictnlp/llama-omni)] *only english* :heavy_check_mark:
+- [2024/09] **EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions** [[paper](https://arxiv.org/abs/2409.18042)][[demo](https://emova-ollm.github.io/)]
+- [2024/08] **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** [[paper](https://arxiv.org/abs/2408.16725)][[code](https://github.com/gpt-omni/mini-omni)] *End-to-End | speech interaction model* :heavy_check_mark:
+- [2024/08] **Speech To Speech: an effort for an open-sourced and modular GPT4-o** [[code](https://github.com/huggingface/speech-to-speech)] *End-to-End | speech interaction model* :heavy_check_mark:
+- [2024/08] **Language Model Can Listen While Speaking** [[paper](https://arxiv.org/abs/2408.02622)][[demo](https://ziyang.tech/LSLM/)] *Full Duplex Modeling | speech interaction model*
+- [????/??] **SpeechGPT2: End-to-End Human-Like Spoken Chatbot** [[paper]()][[code](https://github.com/0nutation/SpeechGPT)][[demo](https://0nutation.github.io/SpeechGPT2.github.io/)] *paper & `Code Comming Soon` | speech interaction model*
+- [2024/01] **SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation** [[paper](https://arxiv.org/abs/2401.13527)][[demo](https://0nutation.github.io/SpeechGPT-Gen.github.io/)] *`Code Comming Soon`*
+- [2023/05] **SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities** [[paper](https://arxiv.org/abs/2305.11000)][[code](https://github.com/0nutation/SpeechGPT)][[demo](https://0nutation.github.io/SpeechGPT.github.io/)] :heavy_check_mark:
+- [2024/07] **Generative Expressive Conversational Speech Synthesis** [[paper](https://arxiv.org/abs/2407.21491)][[code](https://github.com/walker-hyf/GPT-Talker)] *GPT-Talker* ｜ *GPT for response and Style, VITS for audio* :heavy_check_mark:
+- [2024/06] **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities** [[paper](https://arxiv.org/abs/2406.11768)][[code](https://github.com/Sreyan88/GAMA)][[demo](https://sreyan88.github.io/gamaaudio/)] :heavy_check_mark:
+- [2024/02] **Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities** [[paper](https://arxiv.org/abs/2402.01831)][[code](https://github.com/NVIDIA/audio-flamingo)][[demo](https://audioflamingo.github.io/)] :heavy_check_mark:
+- [2024/02] **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling** [[paper](https://arxiv.org/abs/2402.12226)][[code](https://github.com/OpenMOSS/AnyGPT)][[demo](https://junzhan2000.github.io/AnyGPT.github.io/)] :heavy_check_mark:
+- [2024/03] **WavLLM: Towards Robust and Adaptive Speech Large Language Model** [[paper](https://arxiv.org/abs/2404.00656)][[code](https://github.com/microsoft/SpeechT5/tree/main/WavLLM)] :heavy_check_mark:
+- [2024/08] **DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance** [[paper](https://arxiv.org/abs/2408.14423)][[demo](https://dualspeech.notion.site/DualSpeech-Demo-25fcf06ea94b4a739094d828d400542d)]
+- [2024/08] **Style-Talker: Finetuning Audio Language Model and StyleBased Text-to-Speech Model for Fast Spoken Dialogue Generation** [[paper](https://arxiv.org/abs/2408.11849)][[code](https://github.com/xi-j/Style-Talker)][[demo](https://styletalker.github.io/)] *`Code Comming Soon`*
+- [2024/04] **CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations** [[paper](https://arxiv.org/abs/2404.06690)][[code](https://github.com/vivian556123/NeurIPS2024-CoVoMix)][[demo](https://www.microsoft.com/en-us/research/project/covomix/)] *multi-round dialogue speech generation* :heavy_check_mark:
 
 #### Cascaded (Paradigms) Models 
 
-- [2023/10] **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [[paper](https://arxiv.org/abs/2310.13289)][[code](https://github.com/bytedance/SALMONN)] :heavy_check_mark:
-- [2023/11] **Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models** [[paper](https://arxiv.org/abs/2311.07919)][[code](https://github.com/QwenLM/Qwen-Audio)] :heavy_check_mark:
-- [2024/05] **A Full-duplex Speech Dialogue Scheme Based On Large Language Model** [[paper](https://arxiv.org/abs/2405.19487)] *neural finite state machine* 
-- [2024/07] **Qwen2-Audio Technical Report** [[paper](https://www.arxiv.org/abs/2407.10759)][[code](https://github.com/QwenLM/Qwen2-Audio)] :heavy_check_mark:
-- [2024/07] **Speech-Copilot: Leveraging Large Language Models for Speech Processing via Task Decomposition, Modularization, and Program Generation** [[paper](https://arxiv.org/abs/2407.09886)][[code](https://github.com/kuan2jiu99/speech-copilot)][[demo](https://sites.google.com/view/slt2024-demo-page)] *`Code Coming Soon` | speech interaction model*
-- [2024/08] **VITA: Towards Open-Source Interactive Omni Multimodal LLM** [[paper](https://www.arxiv.org/abs/2408.05211)][[code](https://github.com/VITA-MLLM/VITA)][[demo](https://vita-home.github.io/)] :heavy_check_mark:
-- [2024/10] **Ocean-omni: To Understand the World with Omni-modality** [[paper](https://arxiv.org/abs/2410.08565)][[code](https://github.com/westlake-baichuan-mllm/bc-omni)] *Baichuan-Omni* :heavy_check_mark:
-- [2024/10] **Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant** [[paper](https://arxiv.org/abs/2410.15316)][[code](https://github.com/janhq/ichigo)] :heavy_check_mark:
 - [2024/11] **A fast multimodal LLM for real-time voice** [[blog](https://www.ultravox.ai/blog/ultravox-an-open-weight-alternative-to-gpt-4o-realtime)][[code](https://github.com/fixie-ai/ultravox)][[demo](https://demo.ultravox.ai/)] *Ultravox* :heavy_check_mark:
-
+- [2024/10] **Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant** [[paper](https://arxiv.org/abs/2410.15316)][[code](https://github.com/janhq/ichigo)] :heavy_check_mark:
+- [2024/10] **Ocean-omni: To Understand the World with Omni-modality** [[paper](https://arxiv.org/abs/2410.08565)][[code](https://github.com/westlake-baichuan-mllm/bc-omni)] *Baichuan-Omni* :heavy_check_mark:
+- [2024/08] **VITA: Towards Open-Source Interactive Omni Multimodal LLM** [[paper](https://www.arxiv.org/abs/2408.05211)][[code](https://github.com/VITA-MLLM/VITA)][[demo](https://vita-home.github.io/)] :heavy_check_mark:
+- [2024/07] **Speech-Copilot: Leveraging Large Language Models for Speech Processing via Task Decomposition, Modularization, and Program Generation** [[paper](https://arxiv.org/abs/2407.09886)][[code](https://github.com/kuan2jiu99/speech-copilot)][[demo](https://sites.google.com/view/slt2024-demo-page)] *`Code Coming Soon` | speech interaction model*
+- [2024/07] **Qwen2-Audio Technical Report** [[paper](https://www.arxiv.org/abs/2407.10759)][[code](https://github.com/QwenLM/Qwen2-Audio)] :heavy_check_mark:
+- [2024/05] **A Full-duplex Speech Dialogue Scheme Based On Large Language Model** [[paper](https://arxiv.org/abs/2405.19487)] *neural finite state machine* 
+- [2023/11] **Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models** [[paper](https://arxiv.org/abs/2311.07919)][[code](https://github.com/QwenLM/Qwen-Audio)] :heavy_check_mark:
+- [2023/10] **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [[paper](https://arxiv.org/abs/2310.13289)][[code](https://github.com/bytedance/SALMONN)] :heavy_check_mark:
 
 ### Benchmark
 - [2023/09] **Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech** [[paper](https://arxiv.org/abs/2309.09510)]
