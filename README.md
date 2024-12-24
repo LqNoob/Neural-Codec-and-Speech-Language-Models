@@ -326,7 +326,7 @@
 - composio: https://github.com/ComposioHQ/composio
 - torchdiffeq: https://github.com/rtqichen/torchdiffeq
 - podlm: https://github.com/lihuithe/podlm-public (NoteBookLM 的平替)
-- NotebookLlama: https://github.com/meta-llama/llama-recipes/recipes/quickstart/NotebookLlama (类似 NoteBookLM)
+- NotebookLlama: https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama (类似 NoteBookLM)
 - playnote: https://play.ai/playnote (类似 NotebookLM)
 - podcastfy: https://github.com/souzatharsis/podcastfy (类似 NotebookLM)
 - dify: https://github.com/langgenius/dify (开源的 LLM 应用开发平台)
