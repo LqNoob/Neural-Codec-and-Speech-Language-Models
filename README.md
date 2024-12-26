@@ -198,6 +198,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2024/12] **Long-Form Speech Generation with Spoken Language Models** [[paper](https://arxiv.org/abs/2412.18603)][[demo](https://google.github.io/tacotron/publications/speechssm/)] *SpeechSSM, Long-Form Generation* 
 - [2024/12] **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training** [[paper](https://arxiv.org/abs/2412.15649)][[demo](https://slam-omni.github.io/)]
 - [2024/12] **Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners** [[paper](https://arxiv.org/abs/2412.04917)][[demo](https://cognitivespeech.github.io/flowomni)] *Flow-Omni, continuous speech tokens*
 - [2024/02] **Paralinguistics-Aware Speech-Empowered LLMs for Natural Conversation** [[paper](https://arxiv.org/abs/2402.05706)][[code](https://github.com/naver-ai/usdm)][[demo](https://unifiedsdm.github.io/)] *learning cross-modal distributional semantics* :heavy_check_mark:
