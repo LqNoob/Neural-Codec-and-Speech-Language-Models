@@ -148,7 +148,7 @@
 - [2024/09] **MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer** [[paper](https://arxiv.org/abs/2409.00750)][[code](https://github.com/open-mmlab/Amphion/tree/main/models/tts/maskgct)][[demo](https://maskgct.github.io/)] *Masked Generative Model* | *Similar to Seed-TTS* :heavy_check_mark:
 - [2024/08] **VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling** [[paper](https://www.arxiv.org/abs/2408.15676)][[code](https://github.com/thuhcsi/VoxInstruct)][[demo](https://voxinstruct.github.io/VoxInstruct/)] :heavy_check_mark:
 - [2024/08] **Bailing-TTS: Chinese Dialectal Speech Synthesis Towards Human-like Spontaneous Representation** [[paper](https://arxiv.org/abs/2408.00284)][[demo](https://c9412600.github.io/bltts_tech_report/index.html)]
-- [2024/04] **FlashSpeech: Efficient Zero-Shot Speech Synthesis** [[paper](https://arxiv.org/abs/2404.14700)][[code](https://github.com/zhenye234/FlashSpeech)][[demo](https://flashspeech.github.io/)] *`Code Comming Soon`*
+- [2024/04] **FlashSpeech: Efficient Zero-Shot Speech Synthesis** [[paper](https://arxiv.org/abs/2404.14700)][[code](https://github.com/zhenye234/FlashSpeech)][[demo](https://flashspeech.github.io/)] :heavy_check_mark:
 - [2024/07] **CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens** [[paper](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf)] [[code](https://github.com/FunAudioLLM/CosyVoice)][[demo](https://funaudiollm.github.io/)] :heavy_check_mark:
 - [2024/07] **Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization** [[paper](https://arxiv.org/abs/2407.02243)][[demo](https://yuchen005.github.io/RIO-TTS-demos/)] *Human FeedBack*
 - [2024/06] **E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS** [[paper](https://arxiv.org/abs/2406.18009)][[demo](https://www.microsoft.com/en-us/research/project/e2-tts/)] *similar to Seed-TTS*
@@ -276,7 +276,7 @@
 ## Music Generation
 
 - [2024/12] **SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor** [[paper](https://www.arxiv.org/abs/2412.13786)][[demo](https://cypress-yang.github.io/SongEditor_demo/)]
-- [2024/12] **MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large Language Models** [[paper](https://arxiv.org/abs/2412.06660)][[code](https://github.com/shansongliu/MuMu-LLaMA)] *`Code Comming Soon`*
+- [2024/12] **MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large Language Models** [[paper](https://arxiv.org/abs/2412.06660)][[code](https://github.com/shansongliu/MuMu-LLaMA)] :heavy_check_mark:
 - [2024/10] **MusicFlow: Cascaded Flow Matching for Text Guided Music Generation** [[paper](https://arxiv.org/abs/2410.20478v1)] *`Code Comming Soon`* | *Similar to MaskGCT*
 - [2024/09] **FLUX that Plays Music** [[paper](https://arxiv.org/abs/2409.00587)][[code](https://github.com/feizc/FluxMusic)][[melodio](https://www.melodio.ai/)] *KunLun* :heavy_check_mark:
 - [2024/09] **Seed-Music: A Unified Framework for High Quality and Controlled Music Generation** [[paper](https://arxiv.org/abs/2409.09214)][[demo](https://team.doubao.com/en/special/seed-music)] *tech-report*
