@@ -128,6 +128,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2024/12] **VoiceDiT: Dual-Condition Diffusion Transformer for Environment-Aware Speech Synthesis** [[paper](https://arxiv.org/abs/2412.19259)][[demo](https://mm.kaist.ac.kr/projects/voicedit/)] *environment-aware speech synthesis*
 - [2024/12] **Autoregressive Speech Synthesis with Next-Distribution Prediction** [[paper](https://www.arxiv.org/abs/2412.16846)][[demo](https://zxf-icpc.github.io/kalle/)] *KALL-E*
 - [2024/12] **ProsodyFM: Unsupervised Phrasing and Intonation Control for Intelligible Speech Synthesis** [[paper](https://www.arxiv.org/abs/2412.11795)][[code](https://github.com/XianghengHee/ProsodyFM)][[demo](https://sordid-eggplant-f05.notion.site/Demo-for-ProsodyFM-6140dee6fe4a4e5eab1395867d7570f8)] *Code Comming Soon*
 - [2024/12] **CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models** [[paper](https://arxiv.org/abs/2412.10117)][[code](https://github.com/FunAudioLLM/CosyVoice)][[demo](https://funaudiollm.github.io/cosyvoice2/)] :heavy_check_mark:
@@ -252,11 +253,14 @@
 
 
 ### Survey
-- [2024/02] **Towards audio language modeling -- an overview** [[paper](https://arxiv.org/abs/2402.13236)]
-- [2024/10] **A Survey on Speech Large Language Models** [[paper](https://arxiv.org/abs/2410.18908)]
-- [2024/10] **Recent Advances in Speech Language Models: A Survey** [[paper](https://arxiv.org/abs/2410.03751)]
-- [2024/11] **WavChat: A Survey of Spoken Dialogue Models** [[paper](https://www.arxiv.org/abs/2411.13577)][[code](https://github.com/jishengpeng/WavChat)]
+
+- [2024/12] **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey** [[paper](https://www.arxiv.org/abs/2412.18619)][[code](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction)]
 - [2024/12] **Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey** [[paper](https://arxiv.org/abs/2412.06602)][[code](https://github.com/imxtx/awesome-controllabe-speech-synthesis)]
+- [2024/11] **WavChat: A Survey of Spoken Dialogue Models** [[paper](https://www.arxiv.org/abs/2411.13577)][[code](https://github.com/jishengpeng/WavChat)]
+- [2024/10] **Recent Advances in Speech Language Models: A Survey** [[paper](https://arxiv.org/abs/2410.03751)]
+- [2024/10] **A Survey on Speech Large Language Models** [[paper](https://arxiv.org/abs/2410.18908)]
+- [2024/02] **Towards audio language modeling -- an overview** [[paper](https://arxiv.org/abs/2402.13236)]
+
 
 ## Some Interesting Models
 
