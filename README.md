@@ -59,6 +59,7 @@
 - [2024/11] **hertz-dev** [[code](https://github.com/Standard-Intelligence/hertz-dev)] *WaveCodec* :heavy_check_mark:
 - [2024/11] **SimVQ: Addressing Representation Collapse in Vector Quantized Models with One Linear Layer** [[paper](https://arxiv.org/abs/2411.02038)][[code](https://github.com/youngsheen/SimVQ)] *codebook collapse* :heavy_check_mark:
 - [2024/11] **MDCTCodec: A Lightweight MDCT-based Neural Audio Codec towards High Sampling Rate and Low Bitrate Scenarios** [[paper](https://arxiv.org/abs/2411.00464)][[demo](https://pb20000090.github.io/MDCTCodecSLT2024/)] *discrete cosine transform (MDCT) as input*
+- [2024/10] **Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding** [[paper](https://arxiv.org/abs/2410.13839)][[demo](https://multpletokensprediction.github.io/multipletokensprediction.github.io/)] *`Code Comming Soon`*
 - [2024/10] **Pushing the frontiers of audio generation** [[blog](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)] *google deepmind*
 - [2024/11] **DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models** [[paper](https://arxiv.org/abs/2410.24177)] *Double-Codebook Speaker-invariant Clustering*
 - [2024/10] **A Closer Look at Neural Codec Resynthesis: Bridging the Gap between Codec and Waveform Generation** [[paper](https://arxiv.org/abs/2410.22448)][[demo](https://alexander-h-liu.github.io/codec-resyn.github.io/)] *Is predicting the remaining RVQ codes necessary?*
@@ -128,6 +129,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2024/12] **CrossSpeech++: Cross-lingual Speech Synthesis with Decoupled Language and Speaker Generation** [[paper](https://arxiv.org/abs/2412.20048)][[demo](https://mm.kaist.ac.kr/projects/CrossSpeechpp/)]
 - [2024/12] **VoiceDiT: Dual-Condition Diffusion Transformer for Environment-Aware Speech Synthesis** [[paper](https://arxiv.org/abs/2412.19259)][[demo](https://mm.kaist.ac.kr/projects/voicedit/)] *environment-aware speech synthesis*
 - [2024/12] **Autoregressive Speech Synthesis with Next-Distribution Prediction** [[paper](https://www.arxiv.org/abs/2412.16846)][[demo](https://zxf-icpc.github.io/kalle/)] *KALL-E*
 - [2024/12] **ProsodyFM: Unsupervised Phrasing and Intonation Control for Intelligible Speech Synthesis** [[paper](https://www.arxiv.org/abs/2412.11795)][[code](https://github.com/XianghengHee/ProsodyFM)][[demo](https://sordid-eggplant-f05.notion.site/Demo-for-ProsodyFM-6140dee6fe4a4e5eab1395867d7570f8)] *Code Comming Soon*
