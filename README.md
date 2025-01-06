@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/01] **MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization** [[paper](https://arxiv.org/abs/2501.01108)][[code](https://github.com/tencent-ailab/MuQ)]
 - [2025/01] **SECodec: Structural Entropy-based Compressive Speech Representation Codec for Speech Language Models** [[paper](https://arxiv.org/abs/2501.00018)][[code](https://github.com/wlq2019/SECodec)] *`Code Comming Soon`*
 - [2024/12] **FreeCodec: A disentangled neural speech codec with fewer tokens** [[paper](https://arxiv.org/abs/2412.01053)][[code](https://github.com/exercise-book-yq/FreeCodec)][[demo](https://exercise-book-yq.github.io/FreeCodec-Demo/)] `Code Comming Soon` | *speaker encoder, content encoder and prosody encoder*
 - [2024/11] **TS3-Codec: Transformer-Based Simple Streaming Single Codec** [[paper](https://arxiv.org/abs/2411.18803)] *free-convolution*
