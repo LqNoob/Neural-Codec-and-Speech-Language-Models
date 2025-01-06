@@ -204,6 +204,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/01] **SLIDE: Integrating Speech Language Model with LLM for Spontaneous Spoken Dialogue Generation** [[paper](https://arxiv.org/abs/2501.00805)][[demo](https://github.com/SpeechClub/SLIDE-demo/tree/main)]
 - [2024/12] **Advancing Speech Language Models by Scaling Supervised Fine-Tuning with Over 60,000 Hours of Synthetic Speech Dialogue Data** [[paper](https://arxiv.org/abs/2412.01078)][[demo](https://huggingface.co/spaces/KE-Team/KE-Omni)] *Ke-SpeechChat & KE-Omni* | *`Code Comming Soon`*
 - [2024/12] **Long-Form Speech Generation with Spoken Language Models** [[paper](https://arxiv.org/abs/2412.18603)][[demo](https://google.github.io/tacotron/publications/speechssm/)] *SpeechSSM, Long-Form Generation* 
 - [2024/12] **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training** [[paper](https://arxiv.org/abs/2412.15649)][[demo](https://slam-omni.github.io/)]
