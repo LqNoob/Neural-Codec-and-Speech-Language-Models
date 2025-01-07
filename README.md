@@ -204,6 +204,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/01] **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction** [[paper](https://arxiv.org/abs/2501.01957)][[code](https://github.com/VITA-MLLM/VITA)] :heavy_check_mark:
 - [2025/01] **OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios** [[paper](https://arxiv.org/abs/2501.01384)][[demo](https://sharechatx.github.io/)] *including ShareChatX dataset*
 - [2025/01] **SLIDE: Integrating Speech Language Model with LLM for Spontaneous Spoken Dialogue Generation** [[paper](https://arxiv.org/abs/2501.00805)][[demo](https://github.com/SpeechClub/SLIDE-demo/tree/main)]
 - [2024/12] **Advancing Speech Language Models by Scaling Supervised Fine-Tuning with Over 60,000 Hours of Synthetic Speech Dialogue Data** [[paper](https://arxiv.org/abs/2412.01078)][[demo](https://huggingface.co/spaces/KE-Team/KE-Omni)] *Ke-SpeechChat & KE-Omni* | *`Code Comming Soon`*
