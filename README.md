@@ -131,6 +131,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/01] **DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions** [[paper](https://arxiv.org/abs/2501.04256)][[code](https://github.com/HappyColor/DrawSpeech_PyTorch)][[demo](https://happycolor.github.io/DrawSpeech/)] :heavy_check_mark:
 - [2025/01] **TouchTTS: An Embarrassingly Simple TTS Framework that Everyone Can Touch** [[paper](https://www.arxiv.org/abs/2412.08237)] *data scaling and deployment efficiency*
 - [2024/12] **CrossSpeech++: Cross-lingual Speech Synthesis with Decoupled Language and Speaker Generation** [[paper](https://arxiv.org/abs/2412.20048)][[demo](https://mm.kaist.ac.kr/projects/CrossSpeechpp/)]
 - [2024/12] **VoiceDiT: Dual-Condition Diffusion Transformer for Environment-Aware Speech Synthesis** [[paper](https://arxiv.org/abs/2412.19259)][[demo](https://mm.kaist.ac.kr/projects/voicedit/)] *environment-aware speech synthesis*
