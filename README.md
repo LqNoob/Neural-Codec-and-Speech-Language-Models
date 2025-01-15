@@ -207,6 +207,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/01] **MinMo: A Multimodal Large Language Model for Seamless Voice Interaction** [[paper](https://arxiv.org/abs/2501.06282)][[demo](https://funaudiollm.github.io/minmo/)] *`Code Comming Soon`*
 - [2025/01] **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction** [[paper](https://arxiv.org/abs/2501.01957)][[code](https://github.com/VITA-MLLM/VITA)] :heavy_check_mark:
 - [2025/01] **OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios** [[paper](https://arxiv.org/abs/2501.01384)][[demo](https://sharechatx.github.io/)] *including ShareChatX dataset*
 - [2025/01] **SLIDE: Integrating Speech Language Model with LLM for Spontaneous Spoken Dialogue Generation** [[paper](https://arxiv.org/abs/2501.00805)][[demo](https://github.com/SpeechClub/SLIDE-demo/tree/main)]
