@@ -276,6 +276,7 @@
 
 ## Some Interesting Models
 
+- [2025/01] **CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset** [[paper](https://arxiv.org/abs/2501.08238)] *`Code Comming Soon`*
 - [2024/12] **TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization** [[paper](https://arxiv.org/abs/2412.21037)][[code](https://github.com/declare-lab/TangoFlux)][[demo](https://tangoflux.github.io/)] :heavy_check_mark:
 - [2024/12] **Flow Matching Guide and Code** [[paper](https://arxiv.org/abs/2412.06264)][[code](https://github.com/facebookresearch/flow_matching)]
 - [2024/12] **OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows** [[paper](https://arxiv.org/abs/2412.01169)][[code](https://github.com/jacklishufan/OmniFlows)] :heavy_check_mark:
