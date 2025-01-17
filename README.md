@@ -132,6 +132,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/01] **Kokoro-TTS** [[checkpoints](https://huggingface.co/hexgrad/Kokoro-82M)][[huggingface](https://huggingface.co/spaces/hexgrad/Kokoro-TTS)]
 - [2025/01] **MARS6: A Small and Robust Hierarchical-Codec Text-to-Speech Model** [[paper](https://arxiv.org/abs/2501.05787)][[demo](https://camb-ai.github.io/mars6-turbo/)] *`Code Comming Soon`*
 - [2025/01] **DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions** [[paper](https://arxiv.org/abs/2501.04256)][[code](https://github.com/HappyColor/DrawSpeech_PyTorch)][[demo](https://happycolor.github.io/DrawSpeech/)] :heavy_check_mark:
 - [2025/01] **TouchTTS: An Embarrassingly Simple TTS Framework that Everyone Can Touch** [[paper](https://www.arxiv.org/abs/2412.08237)] *data scaling and deployment efficiency*
