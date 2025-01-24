@@ -295,6 +295,7 @@
 
 ## Music Generation
 
+- [2025/01] **InspireMusic: A Unified Framework for Music, Song, Audio Generation** [[code](https://github.com/FunAudioLLM/InspireMusic)][[demo](https://iris2c.github.io/InspireMusic/)] *`Paper Comming Soon`*
 - [2024/12] **SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor** [[paper](https://www.arxiv.org/abs/2412.13786)][[demo](https://cypress-yang.github.io/SongEditor_demo/)]
 - [2024/12] **MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large Language Models** [[paper](https://arxiv.org/abs/2412.06660)][[code](https://github.com/shansongliu/MuMu-LLaMA)] :heavy_check_mark:
 - [2024/10] **MusicFlow: Cascaded Flow Matching for Text Guided Music Generation** [[paper](https://arxiv.org/abs/2410.20478v1)] *`Code Comming Soon`* | *Similar to MaskGCT*
