@@ -208,6 +208,8 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/01] **Baichuan-Omni-1.5 Technical Report** [[paper](https://arxiv.org/abs/2501.15368)][[code](https://github.com/baichuan-inc/Baichuan-Omni-1.5)] *Baichuan-Omni-1.5* :heavy_check_mark:
+- [2025/01] **A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone** [[blog](https://openbmb.notion.site/MiniCPM-o-2-6-GPT-4o-188ede1b7a558084b3aedd669cb80730)][[code](https://github.com/OpenBMB/MiniCPM-o)] *MiniCPM-o* :heavy_check_mark:
 - [2025/01] **MinMo: A Multimodal Large Language Model for Seamless Voice Interaction** [[paper](https://arxiv.org/abs/2501.06282)][[demo](https://funaudiollm.github.io/minmo/)] *`Code Comming Soon`*
 - [2025/01] **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction** [[paper](https://arxiv.org/abs/2501.01957)][[code](https://github.com/VITA-MLLM/VITA)] :heavy_check_mark:
 - [2025/01] **OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios** [[paper](https://arxiv.org/abs/2501.01384)][[demo](https://sharechatx.github.io/)] *including ShareChatX dataset*
