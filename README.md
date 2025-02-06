@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/02] **ComplexDec: A Domain-robust High-fidelity Neural Audio Codec with Complex Spectrum Modeling** [[paper](https://www.arxiv.org/abs/2502.02019)][[demo](https://bigpon.github.io/ComplexDec_demo/)]
 - [2025/01] **LLaSA: Scaling Train Time and Test Time Compute for LLaMA based Speech Synthesis** [[paper]()][[code](https://github.com/zhenye234/X-Codec-2.0)] *`Paper Comming Soon`* | *X-Codec-2.0*
 - [2025/01] **MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization** [[paper](https://arxiv.org/abs/2501.01108)][[code](https://github.com/tencent-ailab/MuQ)] :heavy_check_mark:
 - [2025/01] **SECodec: Structural Entropy-based Compressive Speech Representation Codec for Speech Language Models** [[paper](https://arxiv.org/abs/2501.00018)][[code](https://github.com/wlq2019/SECodec)] *`Code Comming Soon`*
