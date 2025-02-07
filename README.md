@@ -280,6 +280,8 @@
 
 ## Some Interesting Models
 
+- [2024/06] **Scaling up masked audio encoder learning for general audio classification** [[paper](https://arxiv.org/abs/2406.06992)][[code](https://github.com/richermans/dasheng/)] *DaSheng* :heavy_check_mark:
+- [2025/02] **Metis: A Foundation Speech Generation Model with Masked Generative Pre-training** [[paper](https://arxiv.org/abs/2502.03128)][[code](https://github.com/open-mmlab/Amphion)][[demo](https://metis-demo.github.io/)] :heavy_check_mark:
 - [2025/01] **CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset** [[paper](https://arxiv.org/abs/2501.08238)] *`Code Comming Soon`*
 - [2024/12] **TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization** [[paper](https://arxiv.org/abs/2412.21037)][[code](https://github.com/declare-lab/TangoFlux)][[demo](https://tangoflux.github.io/)] :heavy_check_mark:
 - [2024/12] **Flow Matching Guide and Code** [[paper](https://arxiv.org/abs/2412.06264)][[code](https://github.com/facebookresearch/flow_matching)]
