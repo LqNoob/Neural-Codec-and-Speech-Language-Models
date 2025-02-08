@@ -48,6 +48,8 @@
 
 ### Neural Codec Models
 
+- [2025/02] **Vector Quantization by Distribution Matching** [[paper](https://openreview.net/forum?id=nS2DBNydCC)][[code](https://github.com/Everlyn-Labs/Wasserstein-VQ)] *Wasserstein-VQ* | *codebook collapse* :heavy_check_mark:
+- [2024/12] **Preventing Local Pitfalls in Vector Quantization via Optimal Transport** [[paper](https://arxiv.org/abs/2412.15195)][[code](https://github.com/zbr17/OptVQ)] *OptVQ* | *codebook collapse* :heavy_check_mark:
 - [2025/02] **ComplexDec: A Domain-robust High-fidelity Neural Audio Codec with Complex Spectrum Modeling** [[paper](https://www.arxiv.org/abs/2502.02019)][[demo](https://bigpon.github.io/ComplexDec_demo/)]
 - [2025/02] **Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis** [[paper](https://arxiv.org/abs/2502.04128)][[code](https://github.com/zhenye234/X-Codec-2.0)] *X-Codec-2.0* :heavy_check_mark:
 - [2025/01] **MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization** [[paper](https://arxiv.org/abs/2501.01108)][[code](https://github.com/tencent-ailab/MuQ)] :heavy_check_mark:
