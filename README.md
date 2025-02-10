@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/02] **FocalCodec: Low-Bitrate Speech Coding via Focal Modulation Networks** [[paper](https://arxiv.org/abs/2502.04465)][[code](https://github.com/lucadellalib/focalcodec)][[demo](https://lucadellalib.github.io/focalcodec-web/)] :heavy_check_mark:
 - [2025/02] **Vector Quantization by Distribution Matching** [[paper](https://openreview.net/forum?id=nS2DBNydCC)][[code](https://github.com/Everlyn-Labs/Wasserstein-VQ)] *Wasserstein-VQ* | *codebook collapse* :heavy_check_mark:
 - [2024/12] **Preventing Local Pitfalls in Vector Quantization via Optimal Transport** [[paper](https://arxiv.org/abs/2412.15195)][[code](https://github.com/zbr17/OptVQ)] *OptVQ* | *codebook collapse* :heavy_check_mark:
 - [2025/02] **ComplexDec: A Domain-robust High-fidelity Neural Audio Codec with Complex Spectrum Modeling** [[paper](https://www.arxiv.org/abs/2502.02019)][[demo](https://bigpon.github.io/ComplexDec_demo/)]
