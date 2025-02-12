@@ -137,7 +137,7 @@
 ### Zero-Shot Text-to-Speech Synthesizers
 
 - [2025/02] **IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System** [[paper](https://arxiv.org/abs/2502.05512)][[code](https://github.com/index-tts/index-tts)][[demo](https://index-tts.github.io/)] *Code Comming Soon*
-- [2025/02] **Koel-TTS: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance** [[paper](https://arxiv.org/abs/2502.05236)][[demo](https://koeltts.github.io/)]
+- [2025/02] **Koel-TTS: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance** [[paper](https://arxiv.org/abs/2502.05236)][[demo](https://koeltts.github.io/)] *Code Comming Soon*
 - [2025/02] **Beta Release of Zonos-v0.1** [[blog](https://www.zyphra.com/post/beta-release-of-zonos-v0-1)][[code](https://github.com/Zyphra/Zonos)] :heavy_check_mark:
 - [2025/01] **Kokoro-TTS** [[checkpoints](https://huggingface.co/hexgrad/Kokoro-82M)][[huggingface](https://huggingface.co/spaces/hexgrad/Kokoro-TTS)]
 - [2025/01] **MARS6: A Small and Robust Hierarchical-Codec Text-to-Speech Model** [[paper](https://arxiv.org/abs/2501.05787)][[demo](https://camb-ai.github.io/mars6-turbo/)] *`Code Comming Soon`*
