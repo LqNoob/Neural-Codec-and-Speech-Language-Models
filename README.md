@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2024/04] **Srcodec: Split-Residual Vector Quantization for Neural Speech Codec** [[paper](https://ieeexplore.ieee.org/document/10445966)][[demo](https://exercise-book-yq.github.io/SRCodec-demo/)]
 - [2025/02] **Recent Advances in Discrete Speech Tokens: A Review** [[paper](https://arxiv.org/abs/2502.06490)] 
 - [2024/09] **Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference** [[paper](https://arxiv.org/abs/2409.12117)][[code](https://github.com/NVIDIA/NeMo)][[demo](https://edresson.github.io/Low-Frame-rate-Speech-Codec/)] :heavy_check_mark:
 - [2025/02] **FocalCodec: Low-Bitrate Speech Coding via Focal Modulation Networks** [[paper](https://arxiv.org/abs/2502.04465)][[code](https://github.com/lucadellalib/focalcodec)][[demo](https://lucadellalib.github.io/focalcodec-web/)] :heavy_check_mark:
