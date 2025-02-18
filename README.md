@@ -311,6 +311,7 @@
 
 ## Music Generation
 
+- [2025/02] **CLaMP 3: Universal Music Information Retrieval Across Unaligned Modalities and Unseen Languages** [[paper](https://arxiv.org/abs/2502.10362)][[code](https://github.com/sanderwood/clamp3)][[demo](https://sanderwood.github.io/clamp3/)] :heavy_check_mark:
 - [2025/02] **YuE: Open Music Foundation Models for Full-Song Generation** [[paper]()][[code](https://github.com/multimodal-art-projection/YuE)][[demo](https://map-yue.github.io/)] *Paper Comming Soon*
 - [2025/01] **InspireMusic: A Unified Framework for Music, Song, Audio Generation** [[code](https://github.com/FunAudioLLM/InspireMusic)][[demo](https://iris2c.github.io/InspireMusic/)] *`Paper Comming Soon`*
 - [2024/12] **SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor** [[paper](https://www.arxiv.org/abs/2412.13786)][[demo](https://cypress-yang.github.io/SongEditor_demo/)]
