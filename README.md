@@ -219,6 +219,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/02] **Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction** [[paper](https://arxiv.org/abs/2502.11946)][[code](https://github.com/stepfun-ai/Step-Audio)] :heavy_check_mark:
 - [2025/01] **Baichuan-Omni-1.5 Technical Report** [[paper](https://arxiv.org/abs/2501.15368)][[code](https://github.com/baichuan-inc/Baichuan-Omni-1.5)] *Baichuan-Omni-1.5* :heavy_check_mark:
 - [2025/01] **A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone** [[blog](https://openbmb.notion.site/MiniCPM-o-2-6-GPT-4o-188ede1b7a558084b3aedd669cb80730)][[code](https://github.com/OpenBMB/MiniCPM-o)] *MiniCPM-o* :heavy_check_mark:
 - [2025/01] **MinMo: A Multimodal Large Language Model for Seamless Voice Interaction** [[paper](https://arxiv.org/abs/2501.06282)][[demo](https://funaudiollm.github.io/minmo/)] *`Code Comming Soon`*
