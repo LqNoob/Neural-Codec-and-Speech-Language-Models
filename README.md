@@ -314,6 +314,8 @@
 
 ## Music Generation
 
+- [2025/02] **SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation** [[paper](https://arxiv.org/abs/2502.13128)][[code](https://github.com/LiuZH-19/SongGen)][[demo](https://liuzh-19.github.io/SongGen/)] :heavy_check_mark:
+- [2025/02] **TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching** [[paper](https://arxiv.org/abs/2502.12572)][[code](https://github.com/gwx314/TechSinger)][[demo](https://tech-singer.github.io/)] :heavy_check_mark:
 - [2025/02] **CLaMP 3: Universal Music Information Retrieval Across Unaligned Modalities and Unseen Languages** [[paper](https://arxiv.org/abs/2502.10362)][[code](https://github.com/sanderwood/clamp3)][[demo](https://sanderwood.github.io/clamp3/)] :heavy_check_mark:
 - [2025/02] **YuE: Open Music Foundation Models for Full-Song Generation** [[paper]()][[code](https://github.com/multimodal-art-projection/YuE)][[demo](https://map-yue.github.io/)] *Paper Comming Soon*
 - [2025/01] **InspireMusic: A Unified Framework for Music, Song, Audio Generation** [[code](https://github.com/FunAudioLLM/InspireMusic)][[demo](https://iris2c.github.io/InspireMusic/)] *`Paper Comming Soon`*
