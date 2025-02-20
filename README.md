@@ -293,6 +293,8 @@
 
 ## Some Interesting Models
 
+- [2025/02] **DisCoder: High-Fidelity Music Vocoder Using Neural Audio Codecs** [[paper](https://arxiv.org/abs/2502.12759)][[code](https://github.com/ETH-DISCO/discoder/)][[demo](https://lucala.github.io/discoder/)] :heavy_check_mark:
+- [2024/08] **PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation** [[paper](https://arxiv.org/abs/2408.07547)][[code](https://github.com/sh-lee-prml/PeriodWave)][[demo](https://periodwave.github.io/demo/)] :heavy_check_mark:
 - [2025/02] **Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment** [[paper](https://arxiv.org/abs/2502.04328)][[code](https://github.com/Ola-Omni/Ola)][[demo](https://ola-omni.github.io/)] :heavy_check_mark:
 - [2024/06] **Scaling up masked audio encoder learning for general audio classification** [[paper](https://arxiv.org/abs/2406.06992)][[code](https://github.com/richermans/dasheng/)] *DaSheng* :heavy_check_mark:
 - [2025/02] **Metis: A Foundation Speech Generation Model with Masked Generative Pre-training** [[paper](https://arxiv.org/abs/2502.03128)][[code](https://github.com/open-mmlab/Amphion)][[demo](https://metis-demo.github.io/)] :heavy_check_mark:
