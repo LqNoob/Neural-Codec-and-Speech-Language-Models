@@ -293,6 +293,7 @@
 
 ## Some Interesting Models
 
+- [2024/09] **Text2FX: Harnessing CLAP Embeddings for Text-Guided Audio Effects** [[paper](https://arxiv.org/abs/2409.18847)][[code](https://github.com/anniejchu/text2fx)][[demo](https://anniejchu.github.io/text2fx/)] :heavy_check_mark:
 - [2025/02] **DisCoder: High-Fidelity Music Vocoder Using Neural Audio Codecs** [[paper](https://arxiv.org/abs/2502.12759)][[code](https://github.com/ETH-DISCO/discoder/)][[demo](https://lucala.github.io/discoder/)] :heavy_check_mark:
 - [2024/08] **PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation** [[paper](https://arxiv.org/abs/2408.07547)][[code](https://github.com/sh-lee-prml/PeriodWave)][[demo](https://periodwave.github.io/demo/)] :heavy_check_mark:
 - [2025/02] **Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment** [[paper](https://arxiv.org/abs/2502.04328)][[code](https://github.com/Ola-Omni/Ola)][[demo](https://ola-omni.github.io/)] :heavy_check_mark:
