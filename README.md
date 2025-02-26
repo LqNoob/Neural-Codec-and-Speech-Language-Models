@@ -221,6 +221,8 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/02] **Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction** [[paper](https://www.arxiv.org/abs/2502.17239)][[code](https://github.com/baichuan-inc/Baichuan-Audio)] :heavy_check_mark:
+- [2025/02] **Slamming: Training a Speech Language Model on One GPU in a Day** [[paper](https://arxiv.org/abs/2502.15814)][[code](https://github.com/slp-rl/slamkit)][[demo](https://pages.cs.huji.ac.il/adiyoss-lab/slamming/)] :heavy_check_mark:
 - [2025/02] **ESPnet-SpeechLM: An Open Speech Language Model Toolkit** [[paper](https://arxiv.org/abs/2502.15218)][[code](https://github.com/espnet/espnet/tree/speechlm)] :heavy_check_mark:
 - [2025/02] **Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction** [[paper](https://arxiv.org/abs/2502.11946)][[code](https://github.com/stepfun-ai/Step-Audio)] :heavy_check_mark:
 - [2025/01] **Baichuan-Omni-1.5 Technical Report** [[paper](https://arxiv.org/abs/2501.15368)][[code](https://github.com/baichuan-inc/Baichuan-Omni-1.5)] *Baichuan-Omni-1.5* :heavy_check_mark:
