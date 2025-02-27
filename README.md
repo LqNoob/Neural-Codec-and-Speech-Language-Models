@@ -277,6 +277,8 @@
 - [2023/10] **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [[paper](https://arxiv.org/abs/2310.13289)][[code](https://github.com/bytedance/SALMONN)] :heavy_check_mark:
 
 ### Benchmark
+
+- [2025/02] **URO-Bench: A Comprehensive Benchmark for End-to-End Spoken Dialogue Models** [[paper](https://www.arxiv.org/abs/2502.17810)]
 - [2023/09] **Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech** [[paper](https://arxiv.org/abs/2309.09510)]
 - [2024/02] **Codec-SUPERB: An In-Depth Analysis of Sound Codec Models** [[paper](https://arxiv.org/abs/2402.13071v2)][[code](https://github.com/voidful/Codec-SUPERB)]
 - [2024/07] **EMO-Codec: A Depth Look at Emotion Preservation Capacity of Legacy and Neural Codec Models With Subjective and Objective Evaluations** [[paper](https://arxiv.org/abs/2407.15458)]
