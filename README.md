@@ -140,6 +140,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/02] **Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis** [[paper](https://www.arxiv.org/abs/2502.18924)][[demo](https://sditdemo.github.io/sditdemo/)]
 - [2025/02] **SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer** [[paper](https://arxiv.org/abs/2502.11094)][[demo](https://syncspeech.github.io/)] *Code Comming Soon*
 - [2025/02] **FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching** [[paper](https://arxiv.org/abs/2502.11128)][[demo](https://felle-demo.github.io/)]
 - [2025/02] **IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System** [[paper](https://arxiv.org/abs/2502.05512)][[code](https://github.com/index-tts/index-tts)][[demo](https://index-tts.github.io/)] *Code Comming Soon*
@@ -338,6 +339,7 @@
 
 ## Speech DataSet
 
+- [2025/02] **CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition** [[paper](https://www.arxiv.org/abs/2502.18913)]
 - [2025/02] **Audio-FLAN: A Preliminary Release** [[paper](https://www.arxiv.org/abs/2502.16584)][[code](https://github.com/lmxue/Audio-FLAN)][[dataset](https://huggingface.co/datasets/HKUSTAudio/Audio-FLAN-Dataset)] :heavy_check_mark:
 - [2024/07] **Emilia: An extensive, multilingual, and diverse speech dataset for large-scale speech generation** [[paper](https://arxiv.org/abs/2407.05361)][[code](https://github.com/open-mmlab/Amphion/tree/main/preprocessors/Emilia)][[demo](https://emilia-dataset.github.io/Emilia-Demo-Page/)][[dataset](https://huggingface.co/datasets/amphion/Emilia-Dataset)] :heavy_check_mark:
 - [2024/06] **WenetSpeech4TTS: A 12,800-hour Mandarin TTS corpus for large speech generation model benchmark** [[paper](https://arxiv.org/abs/2406.05763)][[demo](https://wenetspeech4tts.github.io/wenetspeech4tts/)][[dataset](https://huggingface.co/datasets/Wenetspeech4TTS/WenetSpeech4TTS)] :heavy_check_mark:
