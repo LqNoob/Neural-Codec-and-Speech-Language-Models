@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/02] **UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook** [[paper](https://arxiv.org/abs/2502.20067)][[code](https://github.com/Jiang-Yidi/UniCodec)] *Code Comming Soon*
 - [2023/08] **RepCodec: A Speech Representation Codec for Speech Tokenization** [[paper](https://arxiv.org/abs/2309.00169)][[code](https://github.com/mct10/RepCodec)] *semantic speech tokenization* :heavy_check_mark:
 - [2024/04] **Srcodec: Split-Residual Vector Quantization for Neural Speech Codec** [[paper](https://ieeexplore.ieee.org/document/10445966)][[demo](https://exercise-book-yq.github.io/SRCodec-demo/)]
 - [2025/02] **Recent Advances in Discrete Speech Tokens: A Review** [[paper](https://arxiv.org/abs/2502.06490)] 
