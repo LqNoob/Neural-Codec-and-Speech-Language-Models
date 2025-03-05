@@ -48,6 +48,8 @@
 
 ### Neural Codec Models
 
+- [2025/03] **FlowDec: A flow-based full-band general audio codec with high perceptual quality** [[paper](https://arxiv.org/abs/2503.01485)][[code](https://github.com/facebookresearch/FlowDec)][[demo](https://sp-uhh.github.io/FlowDec/)] :heavy_check_mark:
+- [2025/03] **UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation** [[paper](https://arxiv.org/abs/2503.00733)][[demo](https://alexander-h-liu.github.io/uniwav-demo.github.io/)]
 - [2025/02] **UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook** [[paper](https://arxiv.org/abs/2502.20067)][[code](https://github.com/Jiang-Yidi/UniCodec)] *Code Comming Soon*
 - [2023/08] **RepCodec: A Speech Representation Codec for Speech Tokenization** [[paper](https://arxiv.org/abs/2309.00169)][[code](https://github.com/mct10/RepCodec)] *semantic speech tokenization* :heavy_check_mark:
 - [2024/04] **Srcodec: Split-Residual Vector Quantization for Neural Speech Codec** [[paper](https://ieeexplore.ieee.org/document/10445966)][[demo](https://exercise-book-yq.github.io/SRCodec-demo/)]
