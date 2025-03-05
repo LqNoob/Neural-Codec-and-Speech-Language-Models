@@ -159,6 +159,7 @@
 - [2024/12] **VoiceDiT: Dual-Condition Diffusion Transformer for Environment-Aware Speech Synthesis** [[paper](https://arxiv.org/abs/2412.19259)][[demo](https://mm.kaist.ac.kr/projects/voicedit/)] *environment-aware speech synthesis*
 - [2024/12] **Autoregressive Speech Synthesis with Next-Distribution Prediction** [[paper](https://www.arxiv.org/abs/2412.16846)][[demo](https://zxf-icpc.github.io/kalle/)] *KALL-E*
 - [2024/12] **ProsodyFM: Unsupervised Phrasing and Intonation Control for Intelligible Speech Synthesis** [[paper](https://www.arxiv.org/abs/2412.11795)][[code](https://github.com/XianghengHee/ProsodyFM)][[demo](https://sordid-eggplant-f05.notion.site/Demo-for-ProsodyFM-6140dee6fe4a4e5eab1395867d7570f8)] *Code Comming Soon*
+- [2024/12] **Interleaved Speech-Text Language Models are Simple Streaming Text to Speech Synthesizers** [[paper](https://arxiv.org/abs/2412.16102)] :heavy_check_mark:
 - [2024/12] **CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models** [[paper](https://arxiv.org/abs/2412.10117)][[code](https://github.com/FunAudioLLM/CosyVoice)][[demo](https://funaudiollm.github.io/cosyvoice2/)] :heavy_check_mark:
 - [2024/12] **TouchTTS: An Embarrassingly Simple TTS Framework that Everyone Can Touch** [[paper](https://www.arxiv.org/abs/2412.08237)]
 - [2024/11] **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis** [[paper](https://www.arxiv.org/abs/2411.17690)] *Code Comming Soon* | *Text & Video to Speech*
