@@ -141,6 +141,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/03] **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens** [[paper](https://arxiv.org/abs/2503.01710)][[code](https://github.com/SparkAudio/Spark-TTS)][[demo](https://sparkaudio.github.io/spark-tts/)] :heavy_check_mark:
 - [2025/02] **Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis** [[paper](https://www.arxiv.org/abs/2502.18924)][[demo](https://sditdemo.github.io/sditdemo/)]
 - [2025/02] **SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer** [[paper](https://arxiv.org/abs/2502.11094)][[demo](https://syncspeech.github.io/)] *Code Comming Soon*
 - [2025/02] **FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching** [[paper](https://arxiv.org/abs/2502.11128)][[demo](https://felle-demo.github.io/)]
@@ -281,6 +282,7 @@
 
 ### Benchmark
 
+- [2025/03] **Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics** [[paper](https://arxiv.org/abs/2503.01174)] *Code Comming Soon*
 - [2025/02] **URO-Bench: A Comprehensive Benchmark for End-to-End Spoken Dialogue Models** [[paper](https://www.arxiv.org/abs/2502.17810)]
 - [2023/09] **Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech** [[paper](https://arxiv.org/abs/2309.09510)]
 - [2024/02] **Codec-SUPERB: An In-Depth Analysis of Sound Codec Models** [[paper](https://arxiv.org/abs/2402.13071v2)][[code](https://github.com/voidful/Codec-SUPERB)]
@@ -301,6 +303,7 @@
 
 ## Some Interesting Models
 
+- [2025/03] **PodAgent: A Comprehensive Framework for Podcast Generation** [[paper](https://arxiv.org/abs/2503.00455)][[code](https://github.com/yujxx/PodAgent)][[demo](https://podcast-agent.github.io/demo/)] :heavy_check_mark:
 - [2024/09] **Text2FX: Harnessing CLAP Embeddings for Text-Guided Audio Effects** [[paper](https://arxiv.org/abs/2409.18847)][[code](https://github.com/anniejchu/text2fx)][[demo](https://anniejchu.github.io/text2fx/)] :heavy_check_mark:
 - [2025/02] **DisCoder: High-Fidelity Music Vocoder Using Neural Audio Codecs** [[paper](https://arxiv.org/abs/2502.12759)][[code](https://github.com/ETH-DISCO/discoder/)][[demo](https://lucala.github.io/discoder/)] :heavy_check_mark:
 - [2024/08] **PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation** [[paper](https://arxiv.org/abs/2408.07547)][[code](https://github.com/sh-lee-prml/PeriodWave)][[demo](https://periodwave.github.io/demo/)] :heavy_check_mark:
@@ -325,6 +328,7 @@
 
 ## Music Generation
 
+- [2025/03] **DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion** [[paper](https://arxiv.org/abs/2503.01183)][[code](https://github.com/ASLP-lab/DiffRhythm)][[demo](https://nzqian.github.io/DiffRhythm/)] :heavy_check_mark:
 - [2025/02] **SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation** [[paper](https://arxiv.org/abs/2502.13128)][[code](https://github.com/LiuZH-19/SongGen)][[demo](https://liuzh-19.github.io/SongGen/)] :heavy_check_mark:
 - [2025/02] **TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching** [[paper](https://arxiv.org/abs/2502.12572)][[code](https://github.com/gwx314/TechSinger)][[demo](https://tech-singer.github.io/)] :heavy_check_mark:
 - [2025/02] **CLaMP 3: Universal Music Information Retrieval Across Unaligned Modalities and Unseen Languages** [[paper](https://arxiv.org/abs/2502.10362)][[code](https://github.com/sanderwood/clamp3)][[demo](https://sanderwood.github.io/clamp3/)] :heavy_check_mark:
