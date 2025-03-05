@@ -306,6 +306,7 @@
 
 ## Some Interesting Models
 
+- [2023/07] **WavJourney: Compositional Audio Creation with Large Language Models** [[paper](https://arxiv.org/abs/2307.14335)][[code](https://github.com/Audio-AGI/WavJourney)][[demo](https://audio-agi.github.io/WavJourney_demopage/)] :heavy_check_mark:
 - [2025/03] **PodAgent: A Comprehensive Framework for Podcast Generation** [[paper](https://arxiv.org/abs/2503.00455)][[code](https://github.com/yujxx/PodAgent)][[demo](https://podcast-agent.github.io/demo/)] :heavy_check_mark:
 - [2024/09] **Text2FX: Harnessing CLAP Embeddings for Text-Guided Audio Effects** [[paper](https://arxiv.org/abs/2409.18847)][[code](https://github.com/anniejchu/text2fx)][[demo](https://anniejchu.github.io/text2fx/)] :heavy_check_mark:
 - [2025/02] **DisCoder: High-Fidelity Music Vocoder Using Neural Audio Codecs** [[paper](https://arxiv.org/abs/2502.12759)][[code](https://github.com/ETH-DISCO/discoder/)][[demo](https://lucala.github.io/discoder/)] :heavy_check_mark:
@@ -350,6 +351,7 @@
 
 - [2025/02] **CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition** [[paper](https://www.arxiv.org/abs/2502.18913)]
 - [2025/02] **Audio-FLAN: A Preliminary Release** [[paper](https://www.arxiv.org/abs/2502.16584)][[code](https://github.com/lmxue/Audio-FLAN)][[dataset](https://huggingface.co/datasets/HKUSTAudio/Audio-FLAN-Dataset)] :heavy_check_mark:
+- [2024/08] **SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural Language Description** [[paper](https://arxiv.org/abs/2408.13608)][[code](https://github.com/thuhcsi/SpeechCraft)][[demo](https://speechcraft2024.github.io/speechcraft2024/)] :heavy_check_mark:
 - [2024/07] **Emilia: An extensive, multilingual, and diverse speech dataset for large-scale speech generation** [[paper](https://arxiv.org/abs/2407.05361)][[code](https://github.com/open-mmlab/Amphion/tree/main/preprocessors/Emilia)][[demo](https://emilia-dataset.github.io/Emilia-Demo-Page/)][[dataset](https://huggingface.co/datasets/amphion/Emilia-Dataset)] :heavy_check_mark:
 - [2024/06] **WenetSpeech4TTS: A 12,800-hour Mandarin TTS corpus for large speech generation model benchmark** [[paper](https://arxiv.org/abs/2406.05763)][[demo](https://wenetspeech4tts.github.io/wenetspeech4tts/)][[dataset](https://huggingface.co/datasets/Wenetspeech4TTS/WenetSpeech4TTS)] :heavy_check_mark:
 - [2020/10] **Didispeech: A large scale Mandarin speech corpus** [[paper](https://arxiv.org/abs/2010.09275)][[code](https://github.com/athena-team/DiDiSpeech)][[demo](https://athena-team.github.io/DiDiSpeech/)][[dataset](??)]
