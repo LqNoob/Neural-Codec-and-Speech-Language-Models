@@ -53,8 +53,7 @@
 - [2025/03] **UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation** [[paper](https://arxiv.org/abs/2503.00733)][[demo](https://alexander-h-liu.github.io/uniwav-demo.github.io/)]
 - [2025/02] **UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook** [[paper](https://arxiv.org/abs/2502.20067)][[code](https://github.com/Jiang-Yidi/UniCodec)] *Code Comming Soon*
 - [2023/08] **RepCodec: A Speech Representation Codec for Speech Tokenization** [[paper](https://arxiv.org/abs/2309.00169)][[code](https://github.com/mct10/RepCodec)] *semantic speech tokenization* :heavy_check_mark:
-- [2024/04] **Srcodec: Split-Residual Vector Quantization for Neural Speech Codec** [[paper](https://ieeexplore.ieee.org/document/10445966)][[demo](https://exercise-book-yq.github.io/SRCodec-demo/)]
-- [2025/02] **Recent Advances in Discrete Speech Tokens: A Review** [[paper](https://arxiv.org/abs/2502.06490)] 
+- [2024/04] **SRCodec: Split-Residual Vector Quantization for Neural Speech Codec** [[paper](https://ieeexplore.ieee.org/document/10445966)][[demo](https://exercise-book-yq.github.io/SRCodec-demo/)]
 - [2024/09] **Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference** [[paper](https://arxiv.org/abs/2409.12117)][[code](https://github.com/NVIDIA/NeMo)][[demo](https://edresson.github.io/Low-Frame-rate-Speech-Codec/)] :heavy_check_mark:
 - [2025/02] **FocalCodec: Low-Bitrate Speech Coding via Focal Modulation Networks** [[paper](https://arxiv.org/abs/2502.04465)][[code](https://github.com/lucadellalib/focalcodec)][[demo](https://lucadellalib.github.io/focalcodec-web/)] :heavy_check_mark:
 - [2025/02] **Vector Quantization by Distribution Matching** [[paper](https://openreview.net/forum?id=nS2DBNydCC)][[code](https://github.com/Everlyn-Labs/Wasserstein-VQ)] *Wasserstein-VQ* | *codebook collapse* :heavy_check_mark:
@@ -297,6 +296,7 @@
 
 ### Survey
 
+- [2025/02] **Recent Advances in Discrete Speech Tokens: A Review** [[paper](https://arxiv.org/abs/2502.06490)]
 - [2024/12] **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey** [[paper](https://www.arxiv.org/abs/2412.18619)][[code](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction)]
 - [2024/12] **Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey** [[paper](https://arxiv.org/abs/2412.06602)][[code](https://github.com/imxtx/awesome-controllabe-speech-synthesis)]
 - [2024/11] **WavChat: A Survey of Spoken Dialogue Models** [[paper](https://www.arxiv.org/abs/2411.13577)][[code](https://github.com/jishengpeng/WavChat)]
