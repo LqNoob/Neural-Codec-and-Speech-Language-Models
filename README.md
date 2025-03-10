@@ -285,6 +285,7 @@
 
 ### Benchmark
 
+- [2025/03] **Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities** [[paper](https://www.arxiv.org/abs/2503.04721)][[code](https://github.com/DanielLin94144/Full-Duplex-Bench)]
 - [2025/03] **Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics** [[paper](https://arxiv.org/abs/2503.01174)] *Code Comming Soon*
 - [2025/02] **URO-Bench: A Comprehensive Benchmark for End-to-End Spoken Dialogue Models** [[paper](https://www.arxiv.org/abs/2502.17810)]
 - [2023/09] **Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech** [[paper](https://arxiv.org/abs/2309.09510)]
@@ -350,6 +351,7 @@
 
 ## Speech DataSet
 
+- [2025/03] **Scaling Rich Style-Prompted Text-to-Speech Datasets** [[paper](https://www.arxiv.org/abs/2503.04713)][[code](https://github.com/ajd12342/paraspeechcaps)][[demo](https://paraspeechcaps.github.io/)] :heavy_check_mark:
 - [2025/02] **CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition** [[paper](https://www.arxiv.org/abs/2502.18913)]
 - [2025/02] **Audio-FLAN: A Preliminary Release** [[paper](https://www.arxiv.org/abs/2502.16584)][[code](https://github.com/lmxue/Audio-FLAN)][[dataset](https://huggingface.co/datasets/HKUSTAudio/Audio-FLAN-Dataset)] :heavy_check_mark:
 - [2024/08] **SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural Language Description** [[paper](https://arxiv.org/abs/2408.13608)][[code](https://github.com/thuhcsi/SpeechCraft)][[demo](https://speechcraft2024.github.io/speechcraft2024/)] :heavy_check_mark:
