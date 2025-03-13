@@ -309,6 +309,7 @@
 
 ## Some Interesting Models
 
+- [2025/03] **FilmComposer: LLM-Driven Music Production for Silent Film Clips** [[paper](https://www.arxiv.org/abs/2503.08147)][[code](https://github.com/Apple-jun/FilmComposer)][[demo](https://apple-jun.github.io/FilmComposer.github.io/)] *Code Comming Soon*
 - [2023/07] **WavJourney: Compositional Audio Creation with Large Language Models** [[paper](https://arxiv.org/abs/2307.14335)][[code](https://github.com/Audio-AGI/WavJourney)][[demo](https://audio-agi.github.io/WavJourney_demopage/)] :heavy_check_mark:
 - [2025/03] **PodAgent: A Comprehensive Framework for Podcast Generation** [[paper](https://arxiv.org/abs/2503.00455)][[code](https://github.com/yujxx/PodAgent)][[demo](https://podcast-agent.github.io/demo/)] :heavy_check_mark:
 - [2024/09] **Text2FX: Harnessing CLAP Embeddings for Text-Guided Audio Effects** [[paper](https://arxiv.org/abs/2409.18847)][[code](https://github.com/anniejchu/text2fx)][[demo](https://anniejchu.github.io/text2fx/)] :heavy_check_mark:
