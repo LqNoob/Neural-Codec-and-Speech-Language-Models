@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/03] **Designing Neural Synthesizers for Low Latency Interaction** [[paper](https://www.arxiv.org/abs/2503.11562)][[code](https://github.com/fcaspe/BRAVE)][[demo](https://fcaspe.github.io/brave/)] :heavy_check_mark:
 - [2025/03] **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens** [[paper](https://arxiv.org/abs/2503.01710)][[code](https://github.com/SparkAudio/Spark-TTS)][[demo](https://sparkaudio.github.io/spark-tts/)] *BiCodec* :heavy_check_mark:
 - [2025/03] **FlowDec: A flow-based full-band general audio codec with high perceptual quality** [[paper](https://arxiv.org/abs/2503.01485)][[code](https://github.com/facebookresearch/FlowDec)][[demo](https://sp-uhh.github.io/FlowDec/)] :heavy_check_mark:
 - [2025/03] **UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation** [[paper](https://arxiv.org/abs/2503.00733)][[demo](https://alexander-h-liu.github.io/uniwav-demo.github.io/)]
