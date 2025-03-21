@@ -144,6 +144,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/03] **MoonCast: High-Quality Zero-Shot Podcast Generation** [[paper](https://arxiv.org/abs/2503.14345)][[code](https://github.com/jzq2000/MoonCast)][[demo](https://mooncastdemo.github.io/)] :heavy_check_mark:
 - [2025/03] **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens** [[paper](https://arxiv.org/abs/2503.01710)][[code](https://github.com/SparkAudio/Spark-TTS)][[demo](https://sparkaudio.github.io/spark-tts/)] :heavy_check_mark:
 - [2025/02] **Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis** [[paper](https://www.arxiv.org/abs/2502.18924)][[demo](https://sditdemo.github.io/sditdemo/)]
 - [2025/02] **SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer** [[paper](https://arxiv.org/abs/2502.11094)][[demo](https://syncspeech.github.io/)] *Code Comming Soon*
