@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/03] **STFTCodec: High-Fidelity Audio Compression through Time-Frequency Domain Representation** [[paper](https://www.arxiv.org/abs/2503.16989)] 
 - [2025/03] **Designing Neural Synthesizers for Low Latency Interaction** [[paper](https://www.arxiv.org/abs/2503.11562)][[code](https://github.com/fcaspe/BRAVE)][[demo](https://fcaspe.github.io/brave/)] :heavy_check_mark:
 - [2025/03] **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens** [[paper](https://arxiv.org/abs/2503.01710)][[code](https://github.com/SparkAudio/Spark-TTS)][[demo](https://sparkaudio.github.io/spark-tts/)] *BiCodec* :heavy_check_mark:
 - [2025/03] **FlowDec: A flow-based full-band general audio codec with high perceptual quality** [[paper](https://arxiv.org/abs/2503.01485)][[code](https://github.com/facebookresearch/FlowDec)][[demo](https://sp-uhh.github.io/FlowDec/)] :heavy_check_mark:
@@ -311,6 +312,7 @@
 
 ## Some Interesting Models
 
+- [2025/03] **WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching** [[paper](https://www.arxiv.org/abs/2503.16689)][[code](https://github.com/luotianze666/WaveFM)][[demo](https://luotianze666.github.io/WaveFM/)] :heavy_check_mark:
 - [2025/03] **Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering** [[paper](https://arxiv.org/abs/2503.11197)][[code](https://github.com/xiaomi-research/r1-aqa)] :heavy_check_mark:
 - [2025/03] **FilmComposer: LLM-Driven Music Production for Silent Film Clips** [[paper](https://www.arxiv.org/abs/2503.08147)][[code](https://github.com/Apple-jun/FilmComposer)][[demo](https://apple-jun.github.io/FilmComposer.github.io/)] *Code Comming Soon*
 - [2023/07] **WavJourney: Compositional Audio Creation with Large Language Models** [[paper](https://arxiv.org/abs/2307.14335)][[code](https://github.com/Audio-AGI/WavJourney)][[demo](https://audio-agi.github.io/WavJourney_demopage/)] :heavy_check_mark:
