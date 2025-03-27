@@ -341,6 +341,7 @@
 
 ## Music Generation
 
+- [2025/03] **Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation** [[paper](https://arxiv.org/abs/2503.19611)][[demo](https://musicot.github.io/)] *MusiCoT*
 - [2025/03] **DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion** [[paper](https://arxiv.org/abs/2503.01183)][[code](https://github.com/ASLP-lab/DiffRhythm)][[demo](https://nzqian.github.io/DiffRhythm/)] :heavy_check_mark:
 - [2025/02] **SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation** [[paper](https://arxiv.org/abs/2502.13128)][[code](https://github.com/LiuZH-19/SongGen)][[demo](https://liuzh-19.github.io/SongGen/)] :heavy_check_mark:
 - [2025/02] **TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching** [[paper](https://arxiv.org/abs/2502.12572)][[code](https://github.com/gwx314/TechSinger)][[demo](https://tech-singer.github.io/)] :heavy_check_mark:
