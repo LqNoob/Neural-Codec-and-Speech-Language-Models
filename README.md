@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/03] **QINCODEC: Neural Audio Compression with Implicit Neural Codebooks** [[paper](https://arxiv.org/abs/2503.19597)][[demo](https://zinebl-sony.github.io/post-training-rvq/)]
 - [2025/03] **STFTCodec: High-Fidelity Audio Compression through Time-Frequency Domain Representation** [[paper](https://www.arxiv.org/abs/2503.16989)] 
 - [2025/03] **Designing Neural Synthesizers for Low Latency Interaction** [[paper](https://www.arxiv.org/abs/2503.11562)][[code](https://github.com/fcaspe/BRAVE)][[demo](https://fcaspe.github.io/brave/)] :heavy_check_mark:
 - [2025/03] **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens** [[paper](https://arxiv.org/abs/2503.01710)][[code](https://github.com/SparkAudio/Spark-TTS)][[demo](https://sparkaudio.github.io/spark-tts/)] *BiCodec* :heavy_check_mark:
