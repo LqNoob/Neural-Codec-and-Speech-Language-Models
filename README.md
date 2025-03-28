@@ -231,7 +231,7 @@
 
 #### End-to-End (Paradigms) Models
 
-- [2025/03] **Qwen2.5-Omni Technical Report** [[paper](https://github.com/QwenLM/Qwen2.5-Omni/tree/main/assets)][[code](https://github.com/QwenLM/Qwen2.5-Omni)] :heavy_check_mark:
+- [2025/03] **Qwen2.5-Omni Technical Report** [[paper](https://www.arxiv.org/abs/2503.20215)][[code](https://github.com/QwenLM/Qwen2.5-Omni)] :heavy_check_mark:
 - [2025/02] **Conversational speech generation** [[blog](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo)][[code](https://github.com/SesameAILabs/csm)] :heavy_check_mark:
 - [2025/02] **Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction** [[paper](https://www.arxiv.org/abs/2502.17239)][[code](https://github.com/baichuan-inc/Baichuan-Audio)] :heavy_check_mark:
 - [2025/02] **Slamming: Training a Speech Language Model on One GPU in a Day** [[paper](https://arxiv.org/abs/2502.15814)][[code](https://github.com/slp-rl/slamkit)][[demo](https://pages.cs.huji.ac.il/adiyoss-lab/slamming/)] :heavy_check_mark:
