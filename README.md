@@ -146,6 +146,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/04] **F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization** [[paper](https://arxiv.org/abs/2504.02407)][[demo](https://frontierlabs.github.io/F5R/)]
 - [2025/04] **MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis** [[paper](https://arxiv.org/abs/2502.18924)][[code](https://github.com/bytedance/MegaTTS3)][[demo](https://sditdemo.github.io/sditdemo/)] :heavy_check_mark:
 - [2025/03] **FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System** [[paper](https://arxiv.org/abs/2503.20499)][[demo](https://fireredteam.github.io/demos/firered_tts_1s/)]
 - [2025/03] **MoonCast: High-Quality Zero-Shot Podcast Generation** [[paper](https://arxiv.org/abs/2503.14345)][[code](https://github.com/jzq2000/MoonCast)][[demo](https://mooncastdemo.github.io/)] :heavy_check_mark:
