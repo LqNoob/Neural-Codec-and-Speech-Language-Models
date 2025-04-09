@@ -156,7 +156,7 @@
 - [2025/02] **Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis** [[paper](https://www.arxiv.org/abs/2502.18924)][[demo](https://sditdemo.github.io/sditdemo/)]
 - [2025/02] **SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer** [[paper](https://arxiv.org/abs/2502.11094)][[demo](https://syncspeech.github.io/)] *Code Comming Soon*
 - [2025/02] **FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching** [[paper](https://arxiv.org/abs/2502.11128)][[demo](https://felle-demo.github.io/)]
-- [2025/02] **IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System** [[paper](https://arxiv.org/abs/2502.05512)][[code](https://github.com/index-tts/index-tts)][[demo](https://index-tts.github.io/)] *Code Comming Soon*
+- [2025/02] **IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System** [[paper](https://arxiv.org/abs/2502.05512)][[code](https://github.com/index-tts/index-tts)][[demo](https://index-tts.github.io/)] :heavy_check_mark:
 - [2025/02] **Koel-TTS: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance** [[paper](https://arxiv.org/abs/2502.05236)][[demo](https://koeltts.github.io/)] *Code Comming Soon*
 - [2025/02] **Beta Release of Zonos-v0.1** [[blog](https://www.zyphra.com/post/beta-release-of-zonos-v0-1)][[code](https://github.com/Zyphra/Zonos)] :heavy_check_mark:
 - [2025/01] **Kokoro-TTS** [[checkpoints](https://huggingface.co/hexgrad/Kokoro-82M)][[huggingface](https://huggingface.co/spaces/hexgrad/Kokoro-TTS)]
