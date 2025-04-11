@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/04] **A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication** [[paper](https://arxiv.org/abs/2504.06561)][[demo](https://pb20000090.github.io/StreamCodec/)]
 - [2025/04] **One Quantizer is Enough: Toward a Lightweight Audio Codec** [[paper](https://arxiv.org/abs/2504.04949)][[code](https://github.com/zhai-lw/SQCodec)] *SQCodec* :heavy_check_mark:
 - [2025/03] **QINCODEC: Neural Audio Compression with Implicit Neural Codebooks** [[paper](https://arxiv.org/abs/2503.19597)][[demo](https://zinebl-sony.github.io/post-training-rvq/)]
 - [2025/03] **STFTCodec: High-Fidelity Audio Compression through Time-Frequency Domain Representation** [[paper](https://www.arxiv.org/abs/2503.16989)] 
