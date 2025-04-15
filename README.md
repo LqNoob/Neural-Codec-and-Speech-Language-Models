@@ -311,6 +311,7 @@
 
 ### Survey
 
+- [2025/04] **On The Landscape of Spoken Language Models: A Comprehensive Survey** [[paper](https://arxiv.org/abs/2504.08528)]
 - [2025/02] **Recent Advances in Discrete Speech Tokens: A Review** [[paper](https://arxiv.org/abs/2502.06490)]
 - [2024/12] **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey** [[paper](https://www.arxiv.org/abs/2412.18619)][[code](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction)]
 - [2024/12] **Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey** [[paper](https://arxiv.org/abs/2412.06602)][[code](https://github.com/imxtx/awesome-controllabe-speech-synthesis)]
