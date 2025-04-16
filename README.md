@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/04] **ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling** [[paper](https://arxiv.org/abs/2504.10344)][[code](https://github.com/yangdongchao/ALMTokenizer)][[demo](https://dongchaoyang.top/ALMTokenizer/)] :heavy_check_mark:
 - [2025/04] **A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication** [[paper](https://arxiv.org/abs/2504.06561)][[demo](https://pb20000090.github.io/StreamCodec/)]
 - [2025/04] **One Quantizer is Enough: Toward a Lightweight Audio Codec** [[paper](https://arxiv.org/abs/2504.04949)][[code](https://github.com/zhai-lw/SQCodec)] *SQCodec* :heavy_check_mark:
 - [2025/03] **QINCODEC: Neural Audio Compression with Implicit Neural Codebooks** [[paper](https://arxiv.org/abs/2503.19597)][[demo](https://zinebl-sony.github.io/post-training-rvq/)]
@@ -148,6 +149,8 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/04] **Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2504.10352)][[demo](https://anonymous-palle.github.io/)]
+- [2025/04] **AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2504.10309)][[demo](https://thuhcsi.github.io/icme2025-AutoStyle-TTS/)]
 - [2025/04] **RWKVTTS: Yet another TTS based on RWKV-7** [[paper](https://arxiv.org/abs/2504.03289)][[code](https://github.com/yynil/RWKVTTS)] :heavy_check_mark:
 - [2025/04] **F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization** [[paper](https://arxiv.org/abs/2504.02407)][[demo](https://frontierlabs.github.io/F5R/)]
 - [2025/04] **MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis** [[paper](https://arxiv.org/abs/2502.18924)][[code](https://github.com/bytedance/MegaTTS3)][[demo](https://sditdemo.github.io/sditdemo/)] :heavy_check_mark:
@@ -371,6 +374,7 @@
 
 ## Speech DataSet
 
+- [2025/04] **SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning** [[paper](https://arxiv.org/abs/2504.09081)]
 - [2025/03] **Scaling Rich Style-Prompted Text-to-Speech Datasets** [[paper](https://www.arxiv.org/abs/2503.04713)][[code](https://github.com/ajd12342/paraspeechcaps)][[demo](https://paraspeechcaps.github.io/)] :heavy_check_mark:
 - [2025/02] **CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition** [[paper](https://www.arxiv.org/abs/2502.18913)]
 - [2025/02] **Audio-FLAN: A Preliminary Release** [[paper](https://www.arxiv.org/abs/2502.16584)][[code](https://github.com/lmxue/Audio-FLAN)][[dataset](https://huggingface.co/datasets/HKUSTAudio/Audio-FLAN-Dataset)] :heavy_check_mark:
