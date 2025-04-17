@@ -327,6 +327,7 @@
 
 ## Some Interesting Models
 
+- [2025/04] **Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation** [[paper](https://arxiv.org/abs/2504.11002)][[demo](https://dopamine-audiobook.github.io/)]
 - [2025/03] **WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching** [[paper](https://www.arxiv.org/abs/2503.16689)][[code](https://github.com/luotianze666/WaveFM)][[demo](https://luotianze666.github.io/WaveFM/)] :heavy_check_mark:
 - [2025/03] **Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering** [[paper](https://arxiv.org/abs/2503.11197)][[code](https://github.com/xiaomi-research/r1-aqa)] :heavy_check_mark:
 - [2025/03] **FilmComposer: LLM-Driven Music Production for Silent Film Clips** [[paper](https://www.arxiv.org/abs/2503.08147)][[code](https://github.com/Apple-jun/FilmComposer)][[demo](https://apple-jun.github.io/FilmComposer.github.io/)] *Code Comming Soon*
