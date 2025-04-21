@@ -150,6 +150,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/04] **EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting** [[paper](https://arxiv.org/abs/2504.12867)][[demo](https://anonymous.4open.science/w/EmoVoice-DF55/)] *Code Comming Soon*
 - [2025/04] **Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2504.10352)][[demo](https://anonymous-palle.github.io/)]
 - [2025/04] **AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2504.10309)][[demo](https://thuhcsi.github.io/icme2025-AutoStyle-TTS/)]
 - [2025/04] **RWKVTTS: Yet another TTS based on RWKV-7** [[paper](https://arxiv.org/abs/2504.03289)][[code](https://github.com/yynil/RWKVTTS)] :heavy_check_mark:
@@ -357,6 +358,7 @@
 
 ## Music Generation
 
+- [2025/04] **MusFlow: Multimodal Music Generation via Conditional Flow Matching** [[paper](https://arxiv.org/abs/2504.13535)][[demo](https://anonymous22356.github.io/musflow.github.io/)] *Code Comming Soon*
 - [2025/04] **A Survey on Music Generation from Single-Modal, Cross-Modal, and Multi-Modal Perspectives: Data, Methods, and Challenges** [[paper](https://arxiv.org/abs/2504.00837)]
 - [2025/03] **Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation** [[paper](https://arxiv.org/abs/2503.19611)][[demo](https://musicot.github.io/)] *MusiCoT*
 - [2025/03] **DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion** [[paper](https://arxiv.org/abs/2503.01183)][[code](https://github.com/ASLP-lab/DiffRhythm)][[demo](https://nzqian.github.io/DiffRhythm/)] :heavy_check_mark:
