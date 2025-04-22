@@ -150,6 +150,8 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/04] **SLED-TTS: Efficient Speech Language Modeling via Energy Distance in Continuous Space** [[code](https://github.com/ictnlp/SLED-TTS)][[demo](https://sled-demo.github.io/)]
+- [2025/04] **dia** [[code](https://github.com/nari-labs/dia)][[demo](https://yummy-fir-7a4.notion.site/dia)]
 - [2025/04] **EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting** [[paper](https://arxiv.org/abs/2504.12867)][[demo](https://anonymous.4open.science/w/EmoVoice-DF55/)] *Code Comming Soon*
 - [2025/04] **Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2504.10352)][[demo](https://anonymous-palle.github.io/)]
 - [2025/04] **AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2504.10309)][[demo](https://thuhcsi.github.io/icme2025-AutoStyle-TTS/)]
