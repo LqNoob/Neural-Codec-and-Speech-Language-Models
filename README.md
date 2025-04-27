@@ -244,6 +244,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/04] **Kimi-Audio Technical Report** [[paper](https://github.com/MoonshotAI/Kimi-Audio/blob/master/assets/kimia_report.pdf)][[code](https://github.com/MoonshotAI/Kimi-Audio)]
 - [2025/04] **TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling** [[paper](https://arxiv.org/abs/2504.07053)][[code](https://github.com/mtkresearch/TASTE-SpokenLM)][[demo](https://mtkresearch.github.io/TASTE-SpokenLM.github.io/)] :heavy_check_mark:
 - [2025/04] **VocalNet: Speech LLM with Multi-Token Prediction for Faster and High-Quality Generation** [[paper](https://arxiv.org/abs/2504.04060)] *Code Comming Soon*
 - [2025/03] **Qwen2.5-Omni Technical Report** [[paper](https://www.arxiv.org/abs/2503.20215)][[code](https://github.com/QwenLM/Qwen2.5-Omni)] :heavy_check_mark:
