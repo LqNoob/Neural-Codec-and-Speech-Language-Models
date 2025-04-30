@@ -362,6 +362,7 @@
 
 ## Music Generation
 
+- [2025/04] **Versatile Framework for Song Generation with Prompt-based Control** [[paper](https://arxiv.org/abs/2504.19062)][[demo](https://aaronz345.github.io/VersBandDemo/)]
 - [2025/04] **MusFlow: Multimodal Music Generation via Conditional Flow Matching** [[paper](https://arxiv.org/abs/2504.13535)][[demo](https://anonymous22356.github.io/musflow.github.io/)] *Code Comming Soon*
 - [2025/04] **A Survey on Music Generation from Single-Modal, Cross-Modal, and Multi-Modal Perspectives: Data, Methods, and Challenges** [[paper](https://arxiv.org/abs/2504.00837)]
 - [2025/03] **Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation** [[paper](https://arxiv.org/abs/2503.19611)][[demo](https://musicot.github.io/)] *MusiCoT*
