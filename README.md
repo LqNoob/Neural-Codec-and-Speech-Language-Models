@@ -245,6 +245,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/05] **LLaMA-Omni 2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis** [[paper](https://arxiv.org/abs/2505.02625)][[code](https://github.com/ictnlp/LLaMA-Omni2)][[demo](https://llama-omni2.github.io/)] :heavy_check_mark:
 - [2025/04] **Kimi-Audio Technical Report** [[paper](https://github.com/MoonshotAI/Kimi-Audio/blob/master/assets/kimia_report.pdf)][[code](https://github.com/MoonshotAI/Kimi-Audio)]
 - [2025/04] **TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling** [[paper](https://arxiv.org/abs/2504.07053)][[code](https://github.com/mtkresearch/TASTE-SpokenLM)][[demo](https://mtkresearch.github.io/TASTE-SpokenLM.github.io/)] :heavy_check_mark:
 - [2025/04] **VocalNet: Speech LLM with Multi-Token Prediction for Faster and High-Quality Generation** [[paper](https://arxiv.org/abs/2504.04060)] *Code Comming Soon*
@@ -364,6 +365,7 @@
 
 ## Music Generation
 
+- [2025/05] **ACE-Step: A Step Towards Music Generation Foundation Model** [[paper]()][[code](https://github.com/ace-step/ACE-Step)][[demo](https://ace-step.github.io/) *Paper Comming Soon*
 - [2025/04] **Versatile Framework for Song Generation with Prompt-based Control** [[paper](https://arxiv.org/abs/2504.19062)][[demo](https://aaronz345.github.io/VersBandDemo/)]
 - [2025/04] **MusFlow: Multimodal Music Generation via Conditional Flow Matching** [[paper](https://arxiv.org/abs/2504.13535)][[demo](https://anonymous22356.github.io/musflow.github.io/)] *Code Comming Soon*
 - [2025/04] **A Survey on Music Generation from Single-Modal, Cross-Modal, and Multi-Modal Perspectives: Data, Methods, and Challenges** [[paper](https://arxiv.org/abs/2504.00837)]
