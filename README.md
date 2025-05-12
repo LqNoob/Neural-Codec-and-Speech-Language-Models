@@ -246,6 +246,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/05] **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model** [[paper](https://arxiv.org/abs/2505.03739)][[code](https://github.com/VITA-MLLM/VITA-Audio)] :heavy_check_mark:
 - [2025/05] **LLaMA-Omni 2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis** [[paper](https://arxiv.org/abs/2505.02625)][[code](https://github.com/ictnlp/LLaMA-Omni2)][[demo](https://llama-omni2.github.io/)] :heavy_check_mark:
 - [2025/04] **Kimi-Audio Technical Report** [[paper](https://github.com/MoonshotAI/Kimi-Audio/blob/master/assets/kimia_report.pdf)][[code](https://github.com/MoonshotAI/Kimi-Audio)]
 - [2025/04] **TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling** [[paper](https://arxiv.org/abs/2504.07053)][[code](https://github.com/mtkresearch/TASTE-SpokenLM)][[demo](https://mtkresearch.github.io/TASTE-SpokenLM.github.io/)] :heavy_check_mark:
