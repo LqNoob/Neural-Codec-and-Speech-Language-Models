@@ -150,6 +150,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/05] **FlexSpeech: Towards Stable, Controllable and Expressive Text-to-Speech** [[paper](https://arxiv.org/abs/2505.05159)][[demo](https://flexspeech.github.io/DEMO/)]
 - [2025/04] **Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget** [[paper](https://arxiv.org/abs/2504.19146v1)][[code](https://github.com/MYZY-AI/Muyan-TTS)] :heavy_check_mark:
 - [2025/04] **SLED-TTS: Efficient Speech Language Modeling via Energy Distance in Continuous Space** [[code](https://github.com/ictnlp/SLED-TTS)][[demo](https://sled-demo.github.io/)]
 - [2025/04] **dia** [[code](https://github.com/nari-labs/dia)][[demo](https://yummy-fir-7a4.notion.site/dia)]
@@ -333,6 +334,7 @@
 
 ## Some Interesting Models
 
+- [2025/05] **FLAM: Frame-Wise Language-Audio Modeling** [[paper](https://arxiv.org/abs/2505.05335)][[demo](https://flam-model.github.io/)]
 - [2025/05] **ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting** [[paper](https://www.arxiv.org/abs/2504.20630)][[demo](https://aaronz345.github.io/ISDramaDemo/)]
 - [2025/05] **FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing** [[paper](https://arxiv.org/abs/2505.01263)][[demo](https://galaxycong.github.io/LLM-Flow-Dubber/)]
 - [2025/04] **Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation** [[paper](https://arxiv.org/abs/2504.11002)][[demo](https://dopamine-audiobook.github.io/)]
