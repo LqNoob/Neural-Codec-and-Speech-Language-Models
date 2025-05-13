@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/05] **Toward a Sparse and Interpretable Audio Codec** [[paper](https://www.arxiv.org/abs/2505.05654)][[code](https://github.com/JohnVinyard/matching-pursuit)][[demo](https://blog.cochlea.xyz/sparse-interpretable-audio-codec-paper.html)] :heavy_check_mark:
 - [2025/04] **DualCodec: A Low-Frame-Rate, Semantically-Enhanced Neural Audio Codec for Speech Generation** [[paper](https://openreview.net/forum?id=P7VkjAVClZ)][[demo](https://dualcodec.github.io/)] *Code Comming Soon*
 - [2025/04] **ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling** [[paper](https://arxiv.org/abs/2504.10344)][[demo](https://dongchaoyang.top/ALMTokenizer/)]
 - [2025/04] **A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication** [[paper](https://arxiv.org/abs/2504.06561)][[demo](https://pb20000090.github.io/StreamCodec/)]
