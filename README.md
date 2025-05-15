@@ -152,6 +152,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/05] **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder** [[paper](https://arxiv.org/abs/2505.07916)][[demo](https://minimax-ai.github.io/tts_tech_report/)]
 - [2025/05] **FlexSpeech: Towards Stable, Controllable and Expressive Text-to-Speech** [[paper](https://arxiv.org/abs/2505.05159)][[demo](https://flexspeech.github.io/DEMO/)]
 - [2025/04] **Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget** [[paper](https://arxiv.org/abs/2504.19146v1)][[code](https://github.com/MYZY-AI/Muyan-TTS)] :heavy_check_mark:
 - [2025/04] **SLED-TTS: Efficient Speech Language Modeling via Energy Distance in Continuous Space** [[code](https://github.com/ictnlp/SLED-TTS)][[demo](https://sled-demo.github.io/)]
