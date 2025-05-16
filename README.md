@@ -314,6 +314,7 @@
 
 ### Benchmark
 
+- [2025/05] **WavReward: Spoken Dialogue Models With Generalist Reward Evaluators** [[paper](https://www.arxiv.org/pdf/2505.09558)][[code](https://github.com/jishengpeng/WavReward)] *Code Comming Soon*
 - [2025/03] **Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities** [[paper](https://www.arxiv.org/abs/2503.04721)][[code](https://github.com/DanielLin94144/Full-Duplex-Bench)]
 - [2025/03] **Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics** [[paper](https://arxiv.org/abs/2503.01174)] *Code Comming Soon*
 - [2025/02] **URO-Bench: A Comprehensive Benchmark for End-to-End Spoken Dialogue Models** [[paper](https://www.arxiv.org/abs/2502.17810)]
