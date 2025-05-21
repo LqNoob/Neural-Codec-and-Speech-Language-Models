@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/05] **Universal Semantic Disentangled Privacy-preserving Speech Representation Learning** [[paper](https://arxiv.org/abs/2505.13085)][[demo](https://www.amazon.science/usc-samples)]
 - [2025/05] **Multi-band Frequency Reconstruction for Neural Psychoacoustic Coding** [[paper](https://arxiv.org/abs/2505.07235)][[code](https://github.com/dianwen-ng/MUFFIN)][[demo](https://demos46.github.io/muffin/)] :heavy_check_mark:
 - [2025/05] **Toward a Sparse and Interpretable Audio Codec** [[paper](https://www.arxiv.org/abs/2505.05654)][[code](https://github.com/JohnVinyard/matching-pursuit)][[demo](https://blog.cochlea.xyz/sparse-interpretable-audio-codec-paper.html)] :heavy_check_mark:
 - [2025/04] **DualCodec: A Low-Frame-Rate, Semantically-Enhanced Neural Audio Codec for Speech Generation** [[paper](https://openreview.net/forum?id=P7VkjAVClZ)][[code](https://github.com/jiaqili3/DualCodec)][[demo](https://dualcodec.github.io/)] :heavy_check_mark:
@@ -152,6 +153,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/05] **Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis** [[paper](https://arxiv.org/abs/2505.12597)][[code](https://github.com/AI-S2-Lab/Chain-Talker)] *Code Comming Soon*
 - [2025/05] **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder** [[paper](https://arxiv.org/abs/2505.07916)][[demo](https://minimax-ai.github.io/tts_tech_report/)]
 - [2025/05] **FlexSpeech: Towards Stable, Controllable and Expressive Text-to-Speech** [[paper](https://arxiv.org/abs/2505.05159)][[demo](https://flexspeech.github.io/DEMO/)]
 - [2025/04] **Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget** [[paper](https://arxiv.org/abs/2504.19146v1)][[code](https://github.com/MYZY-AI/Muyan-TTS)] :heavy_check_mark:
@@ -249,6 +251,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/05] **Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space** [[paper](https://arxiv.org/abs/2505.13181)][[code](https://github.com/ictnlp/SLED-TTS)] :heavy_check_mark:
 - [2025/05] **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model** [[paper](https://arxiv.org/abs/2505.03739)][[code](https://github.com/VITA-MLLM/VITA-Audio)] :heavy_check_mark:
 - [2025/05] **LLaMA-Omni 2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis** [[paper](https://arxiv.org/abs/2505.02625)][[code](https://github.com/ictnlp/LLaMA-Omni2)][[demo](https://llama-omni2.github.io/)] :heavy_check_mark:
 - [2025/04] **Kimi-Audio Technical Report** [[paper](https://github.com/MoonshotAI/Kimi-Audio/blob/master/assets/kimia_report.pdf)][[code](https://github.com/MoonshotAI/Kimi-Audio)]
