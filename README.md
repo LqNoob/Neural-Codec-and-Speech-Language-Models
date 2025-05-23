@@ -252,6 +252,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/05] **Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model** [[paper](https://arxiv.org/abs/2505.15670)][[demo](https://anonymous598e.github.io/INTERSPEECH2025-DEMO/)] *Code Comming Soon*
 - [2025/05] **Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space** [[paper](https://arxiv.org/abs/2505.13181)][[code](https://github.com/ictnlp/SLED-TTS)] :heavy_check_mark:
 - [2025/05] **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model** [[paper](https://arxiv.org/abs/2505.03739)][[code](https://github.com/VITA-MLLM/VITA-Audio)] :heavy_check_mark:
 - [2025/05] **LLaMA-Omni 2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis** [[paper](https://arxiv.org/abs/2505.02625)][[code](https://github.com/ictnlp/LLaMA-Omni2)][[demo](https://llama-omni2.github.io/)] :heavy_check_mark:
