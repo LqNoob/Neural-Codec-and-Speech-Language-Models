@@ -48,6 +48,7 @@
 
 ### Neural Codec Models
 
+- [2025/05] **Unlocking Temporal Flexibility: Neural Speech Codec with Variable Frame Rate** [[paper](https://arxiv.org/abs/2505.16845)]
 - [2025/05] **PAST: Phonetic-Acoustic Speech Tokenizer** [[paper](https://arxiv.org/abs/2505.14470)][[code](https://github.com/slp-rl/PAST)][[demo](https://pages.cs.huji.ac.il/adiyoss-lab/PAST/)] *Code Comming Soon*
 - [2025/05] **Universal Semantic Disentangled Privacy-preserving Speech Representation Learning** [[paper](https://arxiv.org/abs/2505.13085)][[demo](https://www.amazon.science/usc-samples)]
 - [2025/05] **Multi-band Frequency Reconstruction for Neural Psychoacoustic Coding** [[paper](https://arxiv.org/abs/2505.07235)][[code](https://github.com/dianwen-ng/MUFFIN)][[demo](https://demos46.github.io/muffin/)] :heavy_check_mark:
