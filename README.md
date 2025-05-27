@@ -155,6 +155,8 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/05] **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training** [[paper](https://arxiv.org/abs/2505.17589)][[demo](https://funaudiollm.github.io/cosyvoice3/)]
+- [2025/05] **UniTTS: An end-to-end TTS system without decoupling of acoustic and semantic information** [[paper](https://www.arxiv.org/abs/2505.17426)][[code](https://github.com/IDEA-Emdoor-Lab/UniTTS)] *Code Comming Soon*
 - [2025/05] **Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis** [[paper](https://arxiv.org/abs/2505.12597)][[code](https://github.com/AI-S2-Lab/Chain-Talker)] *Code Comming Soon*
 - [2025/05] **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder** [[paper](https://arxiv.org/abs/2505.07916)][[demo](https://minimax-ai.github.io/tts_tech_report/)]
 - [2025/05] **FlexSpeech: Towards Stable, Controllable and Expressive Text-to-Speech** [[paper](https://arxiv.org/abs/2505.05159)][[demo](https://flexspeech.github.io/DEMO/)]
