@@ -48,6 +48,9 @@
 
 ### Neural Codec Models
 
+- [2025/05] **MagiCodec: Simple Masked Gaussian-Injected Codec for High-Fidelity Reconstruction and Generation** [[paper](https://arxiv.org/abs/2506.00385)][[code](https://github.com/Ereboas/MagiCodec)] :heavy_check_mark:
+- [2025/05] **SwitchCodec: A High-Fidelity Nerual Audio Codec With Sparse Quantization** [[paper](https://www.arxiv.org/abs/2505.24437)]
+- [2025/05] **DS-Codec: Dual-Stage Training with Mirror-to-NonMirror Architecture Switching for Speech Codec** [[paper](https://www.arxiv.org/abs/2505.24314)][[demo](https://pppjchen.github.io/DSCodec/)]
 - [2025/05] **Unlocking Temporal Flexibility: Neural Speech Codec with Variable Frame Rate** [[paper](https://arxiv.org/abs/2505.16845)]
 - [2025/05] **PAST: Phonetic-Acoustic Speech Tokenizer** [[paper](https://arxiv.org/abs/2505.14470)][[code](https://github.com/slp-rl/PAST)][[demo](https://pages.cs.huji.ac.il/adiyoss-lab/PAST/)] *Code Comming Soon*
 - [2025/05] **Universal Semantic Disentangled Privacy-preserving Speech Representation Learning** [[paper](https://arxiv.org/abs/2505.13085)][[demo](https://www.amazon.science/usc-samples)]
@@ -255,6 +258,8 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/06] **CoVoMix2: Advancing Zero-Shot Dialogue Generation with Fully Non-Autoregressive Flow Matching** [[paper](https://arxiv.org/abs/2506.00885)][[demo](https://www.microsoft.com/en-us/research/project/covomix/covomix2/)]
+- [2025/06] **NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction** [[paper](https://www.arxiv.org/abs/2506.00975)][[demo](https://audio-3059.pages.dev/)]
 - [2025/05] **Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model** [[paper](https://arxiv.org/abs/2505.15670)][[demo](https://anonymous598e.github.io/INTERSPEECH2025-DEMO/)] *Code Comming Soon*
 - [2025/05] **Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space** [[paper](https://arxiv.org/abs/2505.13181)][[code](https://github.com/ictnlp/SLED-TTS)] :heavy_check_mark:
 - [2025/05] **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model** [[paper](https://arxiv.org/abs/2505.03739)][[code](https://github.com/VITA-MLLM/VITA-Audio)] :heavy_check_mark:
@@ -380,7 +385,7 @@
 
 ## Music Generation
 
-- [2025/05] **ACE-Step: A Step Towards Music Generation Foundation Model** [[paper]()][[code](https://github.com/ace-step/ACE-Step)][[demo](https://ace-step.github.io/) *Paper Comming Soon*
+- [2025/05] **ACE-Step: A Step Towards Music Generation Foundation Model** [[paper](https://www.arxiv.org/abs/2506.00045)][[code](https://github.com/ace-step/ACE-Step)][[demo](https://ace-step.github.io/) :heavy_check_mark:
 - [2025/04] **Versatile Framework for Song Generation with Prompt-based Control** [[paper](https://arxiv.org/abs/2504.19062)][[demo](https://aaronz345.github.io/VersBandDemo/)]
 - [2025/04] **MusFlow: Multimodal Music Generation via Conditional Flow Matching** [[paper](https://arxiv.org/abs/2504.13535)][[demo](https://anonymous22356.github.io/musflow.github.io/)] *Code Comming Soon*
 - [2025/04] **A Survey on Music Generation from Single-Modal, Cross-Modal, and Multi-Modal Perspectives: Data, Methods, and Challenges** [[paper](https://arxiv.org/abs/2504.00837)]
