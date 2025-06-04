@@ -158,6 +158,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/05] **Chatterbox TTS** [[code](https://github.com/resemble-ai/chatterbox)][[demo](https://resemble-ai.github.io/chatterbox_demopage/)]
 - [2025/05] **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training** [[paper](https://arxiv.org/abs/2505.17589)][[demo](https://funaudiollm.github.io/cosyvoice3/)]
 - [2025/05] **UniTTS: An end-to-end TTS system without decoupling of acoustic and semantic information** [[paper](https://www.arxiv.org/abs/2505.17426)][[code](https://github.com/IDEA-Emdoor-Lab/UniTTS)] *Code Comming Soon*
 - [2025/05] **Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis** [[paper](https://arxiv.org/abs/2505.12597)][[code](https://github.com/AI-S2-Lab/Chain-Talker)] *Code Comming Soon*
