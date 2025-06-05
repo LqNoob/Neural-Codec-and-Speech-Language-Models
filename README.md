@@ -259,6 +259,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/06] **Towards a Japanese Full-duplex Spoken Dialogue System** [[paper](https://arxiv.org/abs/2506.02979)][[code](https://github.com/nu-dialogue/moshi-finetune)][[demo](https://nu-dialogue.github.io/j-moshi/)] :heavy_check_mark:
 - [2025/06] **CoVoMix2: Advancing Zero-Shot Dialogue Generation with Fully Non-Autoregressive Flow Matching** [[paper](https://arxiv.org/abs/2506.00885)][[demo](https://www.microsoft.com/en-us/research/project/covomix/covomix2/)]
 - [2025/06] **NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction** [[paper](https://www.arxiv.org/abs/2506.00975)][[demo](https://audio-3059.pages.dev/)]
 - [2025/05] **Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model** [[paper](https://arxiv.org/abs/2505.15670)][[demo](https://anonymous598e.github.io/INTERSPEECH2025-DEMO/)] *Code Comming Soon*
