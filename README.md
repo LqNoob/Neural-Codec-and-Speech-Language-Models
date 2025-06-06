@@ -409,6 +409,7 @@
 
 ## Speech DataSet
 
+- [2025/06] **HiFiTTS-2: A Large-Scale High Bandwidth Speech Dataset** [[paper](https://arxiv.org/abs/2506.04152)][[dataset](https://huggingface.co/datasets/nvidia/hifitts-2)]
 - [2025/04] **DialogueAgents: A Hybrid Agent-Based Speech Synthesis Framework for Multi-Party Dialogue** [[paper](https://arxiv.org/abs/2504.14482)][[code](https://github.com/uirlx/DialogueAgents)][[demo](https://icme-topaz.vercel.app/)] *synthetic data* :heavy_check_mark:
 - [2025/04] **SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning** [[paper](https://arxiv.org/abs/2504.09081)]
 - [2025/03] **Scaling Rich Style-Prompted Text-to-Speech Datasets** [[paper](https://www.arxiv.org/abs/2503.04713)][[code](https://github.com/ajd12342/paraspeechcaps)][[demo](https://paraspeechcaps.github.io/)] :heavy_check_mark:
