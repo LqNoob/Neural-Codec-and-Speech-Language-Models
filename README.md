@@ -13,8 +13,11 @@
 
 <h5 align=center>
 
-[![License](https://img.shields.io/badge/Code%20License-MIT-yellow)](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models/blob/main/LICENSE)
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLqNoob%2FNeural-Codec-and-Speech-Language-Models&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+[![License](https://img.shields.io/badge/Code%20License-MIT-yellow)](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models/blob/main/LICENSE)
+[![gitHub](https://img.shields.io/github/forks/LqNoob/Neural-Codec-and-Speech-Language-Models.svg?style=social)](https://gitHub.com/LqNoob/Neural-Codec-and-Speech-Language-Models/)
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models)
 [![github](https://img.shields.io/github/stars/LqNoob/Neural-Codec-and-Speech-Language-Models.svg?style=social)](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models)
 [![GitHub issues](https://img.shields.io/github/issues/LqNoob/Neural-Codec-and-Speech-Language-Models?color=critical&label=Issues)](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models/issues?q=is%3Aopen+is%3Aissue)
