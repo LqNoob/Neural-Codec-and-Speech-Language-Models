@@ -158,6 +158,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/06] **Voice Impression Control in Zero-Shot TTS** [[paper](https://arxiv.org/abs/2506.05688)][[demo](https://ntt-hilab-gensp.github.io/is2025voiceimpression/)]
 - [2025/05] **Chatterbox TTS** [[code](https://github.com/resemble-ai/chatterbox)][[demo](https://resemble-ai.github.io/chatterbox_demopage/)]
 - [2025/05] **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training** [[paper](https://arxiv.org/abs/2505.17589)][[demo](https://funaudiollm.github.io/cosyvoice3/)]
 - [2025/05] **UniTTS: An end-to-end TTS system without decoupling of acoustic and semantic information** [[paper](https://www.arxiv.org/abs/2505.17426)][[code](https://github.com/IDEA-Emdoor-Lab/UniTTS)] *Code Comming Soon*
