@@ -161,6 +161,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/06] **VoiceStar: Robust Zero-Shot Autoregressive TTS with Duration Control and Extrapolation** [[paper](https://arxiv.org/abs/2505.19462)][[code](https://github.com/jasonppy/VoiceStar)][[demo](https://jasonppy.github.io/VoiceStar_web/)] :heavy_check_mark:
 - [2025/06] **Voice Impression Control in Zero-Shot TTS** [[paper](https://arxiv.org/abs/2506.05688)][[demo](https://ntt-hilab-gensp.github.io/is2025voiceimpression/)]
 - [2025/05] **Chatterbox TTS** [[code](https://github.com/resemble-ai/chatterbox)][[demo](https://resemble-ai.github.io/chatterbox_demopage/)]
 - [2025/05] **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training** [[paper](https://arxiv.org/abs/2505.17589)][[demo](https://funaudiollm.github.io/cosyvoice3/)]
@@ -263,6 +264,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/06] **Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model** [[paper](https://arxiv.org/abs/2506.08967)]
 - [2025/06] **Towards a Japanese Full-duplex Spoken Dialogue System** [[paper](https://arxiv.org/abs/2506.02979)][[code](https://github.com/nu-dialogue/moshi-finetune)][[demo](https://nu-dialogue.github.io/j-moshi/)] :heavy_check_mark:
 - [2025/06] **CoVoMix2: Advancing Zero-Shot Dialogue Generation with Fully Non-Autoregressive Flow Matching** [[paper](https://arxiv.org/abs/2506.00885)][[demo](https://www.microsoft.com/en-us/research/project/covomix/covomix2/)]
 - [2025/06] **NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction** [[paper](https://www.arxiv.org/abs/2506.00975)][[demo](https://audio-3059.pages.dev/)]
