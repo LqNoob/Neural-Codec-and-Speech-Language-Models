@@ -360,6 +360,7 @@
 
 ## Some Interesting Models
 
+- [2025/06] **Ming-Omni: A Unified Multimodal Model for Perception and Generation** [[paper](https://www.arxiv.org/abs/2506.09344)][[code](https://github.com/inclusionAI/Ming/)][[demo](https://lucaria-academy.github.io/Ming-Omni/)] :heavy_check_mark:
 - [2025/05] **FLAM: Frame-Wise Language-Audio Modeling** [[paper](https://arxiv.org/abs/2505.05335)][[demo](https://flam-model.github.io/)]
 - [2025/05] **ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting** [[paper](https://www.arxiv.org/abs/2504.20630)][[demo](https://aaronz345.github.io/ISDramaDemo/)]
 - [2025/05] **FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing** [[paper](https://arxiv.org/abs/2505.01263)][[demo](https://galaxycong.github.io/LLM-Flow-Dubber/)]
