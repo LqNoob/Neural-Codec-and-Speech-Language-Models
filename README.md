@@ -51,6 +51,7 @@
 
 ### Neural Codec Models
 
+- [2025/06] **TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling** [[paper](https://hecheng0625.github.io/assets/pdf/Arxiv_TaDiCodec.pdf)][[code](https://github.com/open-mmlab/Amphion/tree/main/models/tts/tadicodec)][[demo](https://tadicodec.github.io/)] *Code Comming Soon*
 - [2025/05] **MagiCodec: Simple Masked Gaussian-Injected Codec for High-Fidelity Reconstruction and Generation** [[paper](https://arxiv.org/abs/2506.00385)][[code](https://github.com/Ereboas/MagiCodec)] :heavy_check_mark:
 - [2025/05] **SwitchCodec: A High-Fidelity Nerual Audio Codec With Sparse Quantization** [[paper](https://www.arxiv.org/abs/2505.24437)]
 - [2025/05] **DS-Codec: Dual-Stage Training with Mirror-to-NonMirror Architecture Switching for Speech Codec** [[paper](https://www.arxiv.org/abs/2505.24314)][[demo](https://pppjchen.github.io/DSCodec/)]
@@ -348,6 +349,7 @@
 
 ### Survey
 
+- [2025/06] **Discrete Audio Tokens: More Than a Survey!** [[paper](https://arxiv.org/abs/2506.10274)][[demo](https://poonehmousavi.github.io/dates-website/)]
 - [2025/04] **On The Landscape of Spoken Language Models: A Comprehensive Survey** [[paper](https://arxiv.org/abs/2504.08528)]
 - [2025/02] **Recent Advances in Discrete Speech Tokens: A Review** [[paper](https://arxiv.org/abs/2502.06490)]
 - [2024/12] **Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey** [[paper](https://www.arxiv.org/abs/2412.18619)][[code](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction)]
