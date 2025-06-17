@@ -397,6 +397,7 @@
 
 ## Music Generation
 
+- [2025/06] **LeVo: High-Quality Song Generation with Multi-Preference Alignment** [[paper](https://arxiv.org/abs/2506.07520)][[code](https://github.com/tencent-ailab/songgeneration)][[demo](https://levo-demo.github.io/)] :heavy_check_mark:
 - [2025/05] **ACE-Step: A Step Towards Music Generation Foundation Model** [[paper](https://www.arxiv.org/abs/2506.00045)][[code](https://github.com/ace-step/ACE-Step)][[demo](https://ace-step.github.io/) :heavy_check_mark:
 - [2025/04] **Versatile Framework for Song Generation with Prompt-based Control** [[paper](https://arxiv.org/abs/2504.19062)][[demo](https://aaronz345.github.io/VersBandDemo/)]
 - [2025/04] **MusFlow: Multimodal Music Generation via Conditional Flow Matching** [[paper](https://arxiv.org/abs/2504.13535)][[demo](https://anonymous22356.github.io/musflow.github.io/)] *Code Comming Soon*
