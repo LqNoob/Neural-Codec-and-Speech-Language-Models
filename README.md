@@ -162,6 +162,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/06] **ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching** [[paper](https://www.arxiv.org/abs/2506.13053)][[code](https://github.com/k2-fsa/icefall/tree/master/egs/zipvoice)][[demo](https://zipvoice.github.io/)] :heavy_check_mark:
 - [2025/06] **VoiceStar: Robust Zero-Shot Autoregressive TTS with Duration Control and Extrapolation** [[paper](https://arxiv.org/abs/2505.19462)][[code](https://github.com/jasonppy/VoiceStar)][[demo](https://jasonppy.github.io/VoiceStar_web/)] :heavy_check_mark:
 - [2025/06] **Voice Impression Control in Zero-Shot TTS** [[paper](https://arxiv.org/abs/2506.05688)][[demo](https://ntt-hilab-gensp.github.io/is2025voiceimpression/)]
 - [2025/05] **Chatterbox TTS** [[code](https://github.com/resemble-ai/chatterbox)][[demo](https://resemble-ai.github.io/chatterbox_demopage/)]
@@ -363,6 +364,8 @@
 
 ## Some Interesting Models
 
+- [2025/06] **Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction** [[paper](https://arxiv.org/abs/2506.12537)][[code](https://github.com/cnxupupup/SLM-Decoupled-MTP)][[demo](https://cnxupupup.github.io/SLM-Decoupled-MTP-Demo/)] *Code Comming Soon*
+- [2025/06] **Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model** [[paper](https://arxiv.org/abs/2506.13642)][[code](https://github.com/ictnlp/Stream-Omni)] :heavy_check_mark:
 - [2025/06] **Ming-Omni: A Unified Multimodal Model for Perception and Generation** [[paper](https://www.arxiv.org/abs/2506.09344)][[code](https://github.com/inclusionAI/Ming/)][[demo](https://lucaria-academy.github.io/Ming-Omni/)] :heavy_check_mark:
 - [2025/05] **FLAM: Frame-Wise Language-Audio Modeling** [[paper](https://arxiv.org/abs/2505.05335)][[demo](https://flam-model.github.io/)]
 - [2025/05] **ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting** [[paper](https://www.arxiv.org/abs/2504.20630)][[demo](https://aaronz345.github.io/ISDramaDemo/)]
