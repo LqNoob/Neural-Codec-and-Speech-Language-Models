@@ -51,6 +51,8 @@
 
 ### Neural Codec Models
 
+- [2025/06] **Towards Bitrate-Efficient and Noise-Robust Speech Coding with Variable Bitrate RVQ** [[paper](https://www.arxiv.org/abs/2506.16538)][[code](https://github.com/yoongi43/NoiseRobustVRVQ)][[demo](https://yoongi43.github.io/noise_robust_vrvq/)] :heavy_check_mark:
+- [2025/06] **LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization** [[paper](https://www.arxiv.org/abs/2506.16738)]
 - [2025/06] **TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling** [[paper](https://hecheng0625.github.io/assets/pdf/Arxiv_TaDiCodec.pdf)][[code](https://github.com/open-mmlab/Amphion/tree/main/models/tts/tadicodec)][[demo](https://tadicodec.github.io/)] *Code Comming Soon*
 - [2025/05] **MagiCodec: Simple Masked Gaussian-Injected Codec for High-Fidelity Reconstruction and Generation** [[paper](https://arxiv.org/abs/2506.00385)][[code](https://github.com/Ereboas/MagiCodec)] :heavy_check_mark:
 - [2025/05] **SwitchCodec: A High-Fidelity Nerual Audio Codec With Sparse Quantization** [[paper](https://www.arxiv.org/abs/2505.24437)]
@@ -340,6 +342,7 @@
 
 ### Benchmark
 
+- [2025/06] **InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems** [[paper](https://www.arxiv.org/abs/2506.16381)][[code](https://github.com/KexinHUANG19/InstructTTSEval)]
 - [2025/05] **WavReward: Spoken Dialogue Models With Generalist Reward Evaluators** [[paper](https://www.arxiv.org/pdf/2505.09558)][[code](https://github.com/jishengpeng/WavReward)] *Code Comming Soon*
 - [2025/03] **Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities** [[paper](https://www.arxiv.org/abs/2503.04721)][[code](https://github.com/DanielLin94144/Full-Duplex-Bench)]
 - [2025/03] **Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics** [[paper](https://arxiv.org/abs/2503.01174)] *Code Comming Soon*
