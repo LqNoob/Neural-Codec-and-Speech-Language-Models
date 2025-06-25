@@ -51,6 +51,7 @@
 
 ### Neural Codec Models
 
+- [2025/06] **USAD: Universal Speech and Audio Representation via Distillation** [[paper](https://www.arxiv.org/abs/2506.18843)][[HF](https://huggingface.co/MIT-SLS/USAD-Base)]
 - [2025/06] **Towards Bitrate-Efficient and Noise-Robust Speech Coding with Variable Bitrate RVQ** [[paper](https://www.arxiv.org/abs/2506.16538)][[code](https://github.com/yoongi43/NoiseRobustVRVQ)][[demo](https://yoongi43.github.io/noise_robust_vrvq/)] :heavy_check_mark:
 - [2025/06] **LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization** [[paper](https://www.arxiv.org/abs/2506.16738)]
 - [2025/06] **TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling** [[paper](https://hecheng0625.github.io/assets/pdf/Arxiv_TaDiCodec.pdf)][[code](https://github.com/open-mmlab/Amphion/tree/main/models/tts/tadicodec)][[demo](https://tadicodec.github.io/)] *Code Comming Soon*
