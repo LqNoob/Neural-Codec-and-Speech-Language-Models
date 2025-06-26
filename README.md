@@ -188,6 +188,7 @@
 - [2025/03] **FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System** [[paper](https://arxiv.org/abs/2503.20499)][[demo](https://fireredteam.github.io/demos/firered_tts_1s/)]
 - [2025/03] **MoonCast: High-Quality Zero-Shot Podcast Generation** [[paper](https://arxiv.org/abs/2503.14345)][[code](https://github.com/jzq2000/MoonCast)][[demo](https://mooncastdemo.github.io/)] :heavy_check_mark:
 - [2025/03] **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens** [[paper](https://arxiv.org/abs/2503.01710)][[code](https://github.com/SparkAudio/Spark-TTS)][[demo](https://sparkaudio.github.io/spark-tts/)] :heavy_check_mark:
+- [2025/02] **Vevo: Controllable Zero-Shot Voice Imitation with Self-Supervised Disentanglement** [[paper](https://arxiv.org/abs/2502.07243)][[code](https://github.com/open-mmlab/Amphion/tree/main/models/vc/vevo)][[demo](https://versavoice.github.io/)] :heavy_check_mark:
 - [2025/02] **Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis** [[paper](https://www.arxiv.org/abs/2502.18924)][[demo](https://sditdemo.github.io/sditdemo/)]
 - [2025/02] **SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer** [[paper](https://arxiv.org/abs/2502.11094)][[demo](https://syncspeech.github.io/)] *Code Comming Soon*
 - [2025/02] **FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching** [[paper](https://arxiv.org/abs/2502.11128)][[demo](https://felle-demo.github.io/)]
