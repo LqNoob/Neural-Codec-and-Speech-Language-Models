@@ -51,6 +51,8 @@
 
 ### Neural Codec Models
 
+- [2025/06] **DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding** [[paper](https://arxiv.org/abs/2506.22362)]
+- [2025/06] **CodecSlime: Temporal Redundancy Compression of Neural Speech Codec via Dynamic Frame Rate** [[paper](https://www.arxiv.org/abs/2506.21074)][[demo](https://acadarmeria.github.io/codecslime/)]
 - [2025/06] **USAD: Universal Speech and Audio Representation via Distillation** [[paper](https://www.arxiv.org/abs/2506.18843)][[HF](https://huggingface.co/MIT-SLS/USAD-Base)]
 - [2025/06] **Towards Bitrate-Efficient and Noise-Robust Speech Coding with Variable Bitrate RVQ** [[paper](https://www.arxiv.org/abs/2506.16538)][[code](https://github.com/yoongi43/NoiseRobustVRVQ)][[demo](https://yoongi43.github.io/noise_robust_vrvq/)] :heavy_check_mark:
 - [2025/06] **LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization** [[paper](https://www.arxiv.org/abs/2506.16738)]
@@ -167,6 +169,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/06] **IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech** [[paper](https://arxiv.org/abs/2506.21619)][[demo](https://index-tts.github.io/index-tts2.github.io/)]
 - [2025/06] **ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching** [[paper](https://www.arxiv.org/abs/2506.13053)][[code](https://github.com/k2-fsa/icefall/tree/master/egs/zipvoice)][[demo](https://zipvoice.github.io/)] :heavy_check_mark:
 - [2025/06] **VoiceStar: Robust Zero-Shot Autoregressive TTS with Duration Control and Extrapolation** [[paper](https://arxiv.org/abs/2505.19462)][[code](https://github.com/jasonppy/VoiceStar)][[demo](https://jasonppy.github.io/VoiceStar_web/)] :heavy_check_mark:
 - [2025/06] **Voice Impression Control in Zero-Shot TTS** [[paper](https://arxiv.org/abs/2506.05688)][[demo](https://ntt-hilab-gensp.github.io/is2025voiceimpression/)]
