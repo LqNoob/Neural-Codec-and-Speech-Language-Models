@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/06] **XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in LowBitrate Speech Codecs** [[paper](https://arxiv.org/abs/2506.23325)][[code](https://github.com/gyt1145028706/XY-Tokenizer)]
 - [2025/06] **DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding** [[paper](https://arxiv.org/abs/2506.22362)]
 - [2025/06] **CodecSlime: Temporal Redundancy Compression of Neural Speech Codec via Dynamic Frame Rate** [[paper](https://www.arxiv.org/abs/2506.21074)][[demo](https://acadarmeria.github.io/codecslime/)]
 - [2025/06] **USAD: Universal Speech and Audio Representation via Distillation** [[paper](https://www.arxiv.org/abs/2506.18843)][[HF](https://huggingface.co/MIT-SLS/USAD-Base)]
