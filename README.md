@@ -171,6 +171,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/06] **Investigating Stochastic Methods for Prosody Modeling in Speech Synthesis** [[paper](https://arxiv.org/abs/2507.00227v1)][[code](https://github.com/DigitalPhonetics/IMS-Toucan/tree/StochasticProsodyModeling)]
 - [2025/06] **IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech** [[paper](https://arxiv.org/abs/2506.21619)][[demo](https://index-tts.github.io/index-tts2.github.io/)] *Code Comming Soon*
 - [2025/06] **ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching** [[paper](https://www.arxiv.org/abs/2506.13053)][[code](https://github.com/k2-fsa/icefall/tree/master/egs/zipvoice)][[demo](https://zipvoice.github.io/)] :heavy_check_mark:
 - [2025/06] **VoiceStar: Robust Zero-Shot Autoregressive TTS with Duration Control and Extrapolation** [[paper](https://arxiv.org/abs/2505.19462)][[code](https://github.com/jasonppy/VoiceStar)][[demo](https://jasonppy.github.io/VoiceStar_web/)] :heavy_check_mark:
