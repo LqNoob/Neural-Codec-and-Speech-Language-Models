@@ -282,7 +282,7 @@
 - [2025/06] **Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model** [[paper](https://arxiv.org/abs/2506.08967)]
 - [2025/06] **Towards a Japanese Full-duplex Spoken Dialogue System** [[paper](https://arxiv.org/abs/2506.02979)][[code](https://github.com/nu-dialogue/moshi-finetune)][[demo](https://nu-dialogue.github.io/j-moshi/)] :heavy_check_mark:
 - [2025/06] **CoVoMix2: Advancing Zero-Shot Dialogue Generation with Fully Non-Autoregressive Flow Matching** [[paper](https://arxiv.org/abs/2506.00885)][[demo](https://www.microsoft.com/en-us/research/project/covomix/covomix2/)]
-- [2025/06] **NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction** [[paper](https://www.arxiv.org/abs/2506.00975)][[demo](https://audio-3059.pages.dev/)]
+- [2025/06] **NTPP: Generative Speech Language Modeling for Dual-Channel Spoken Dialogue via Next-Token-Pair Prediction** [[paper](https://www.arxiv.org/abs/2506.00975)][[code](https://github.com/Chaos96/NTPP)][[demo](https://audio-3059.pages.dev/)] :heavy_check_mark:
 - [2025/05] **Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model** [[paper](https://arxiv.org/abs/2505.15670)][[demo](https://anonymous598e.github.io/INTERSPEECH2025-DEMO/)] *Code Comming Soon*
 - [2025/05] **Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space** [[paper](https://arxiv.org/abs/2505.13181)][[code](https://github.com/ictnlp/SLED-TTS)] :heavy_check_mark:
 - [2025/05] **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model** [[paper](https://arxiv.org/abs/2505.03739)][[code](https://github.com/VITA-MLLM/VITA-Audio)] :heavy_check_mark:
