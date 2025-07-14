@@ -171,6 +171,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/07] **MOSS: Text to Spoken Dialogue Generation** [[code](https://github.com/OpenMOSS/MOSS-TTSD)][[demo](https://www.open-moss.com/cn/moss-ttsd/)]
 - [2025/06] **Investigating Stochastic Methods for Prosody Modeling in Speech Synthesis** [[paper](https://arxiv.org/abs/2507.00227v1)][[code](https://github.com/DigitalPhonetics/IMS-Toucan/tree/StochasticProsodyModeling)]
 - [2025/06] **IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech** [[paper](https://arxiv.org/abs/2506.21619)][[demo](https://index-tts.github.io/index-tts2.github.io/)] *Code Comming Soon*
 - [2025/06] **ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching** [[paper](https://www.arxiv.org/abs/2506.13053)][[code](https://github.com/k2-fsa/icefall/tree/master/egs/zipvoice)][[demo](https://zipvoice.github.io/)] :heavy_check_mark:
