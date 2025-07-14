@@ -377,6 +377,7 @@
 
 ## Some Interesting Models
 
+- [2025/07] **Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models** [[paper](https://www.arxiv.org/abs/2507.08128)][[code](https://github.com/NVIDIA/audio-flamingo/tree/audio_flamingo_3)][[demo](https://research.nvidia.com/labs/adlr/AF3/)] :heavy_check_mark:
 - [2025/06] **Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction** [[paper](https://arxiv.org/abs/2506.12537)][[code](https://github.com/cnxupupup/SLM-Decoupled-MTP)][[demo](https://cnxupupup.github.io/SLM-Decoupled-MTP-Demo/)] *Code Comming Soon*
 - [2025/06] **Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model** [[paper](https://arxiv.org/abs/2506.13642)][[code](https://github.com/ictnlp/Stream-Omni)] :heavy_check_mark:
 - [2025/06] **Ming-Omni: A Unified Multimodal Model for Perception and Generation** [[paper](https://www.arxiv.org/abs/2506.09344)][[code](https://github.com/inclusionAI/Ming/)][[demo](https://lucaria-academy.github.io/Ming-Omni/)] :heavy_check_mark:
