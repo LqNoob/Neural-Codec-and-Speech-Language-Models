@@ -279,6 +279,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/07] **ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching** [[paper](https://www.arxiv.org/abs/2507.09318)][[code](https://github.com/k2-fsa/ZipVoice)][[demo](https://zipvoice-dialog.github.io/)] :heavy_check_mark:
 - [2025/06] **vui** [[code](https://github.com/fluxions-ai/vui)][[demo](https://huggingface.co/spaces/fluxions/vui-space)]
 - [2025/06] **Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model** [[paper](https://arxiv.org/abs/2506.08967)]
 - [2025/06] **Towards a Japanese Full-duplex Spoken Dialogue System** [[paper](https://arxiv.org/abs/2506.02979)][[code](https://github.com/nu-dialogue/moshi-finetune)][[demo](https://nu-dialogue.github.io/j-moshi/)] :heavy_check_mark:
