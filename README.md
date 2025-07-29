@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/07] **HH-Codec: High Compression High-fidelity Discrete Neural Codec for Spoken Language Modeling** [[paper](https://www.arxiv.org/abs/2507.18897)][[code](https://github.com/opendilab/HH-Codec)]
 - [2025/06] **XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in LowBitrate Speech Codecs** [[paper](https://arxiv.org/abs/2506.23325)][[code](https://github.com/gyt1145028706/XY-Tokenizer)]
 - [2025/06] **DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding** [[paper](https://arxiv.org/abs/2506.22362)]
 - [2025/06] **CodecSlime: Temporal Redundancy Compression of Neural Speech Codec via Dynamic Frame Rate** [[paper](https://www.arxiv.org/abs/2506.21074)][[demo](https://acadarmeria.github.io/codecslime/)]
@@ -352,6 +353,7 @@
 
 ### Benchmark
 
+- [2025/07] **FD-Bench: A Full-Duplex Benchmarking Pipeline Designed for Full Duplex Spoken Dialogue Systems** [[paper](https://www.arxiv.org/abs/2507.19040)][[code](https://github.com/pengyizhou/FD-Bench)]
 - [2025/06] **InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems** [[paper](https://www.arxiv.org/abs/2506.16381)][[code](https://github.com/KexinHUANG19/InstructTTSEval)]
 - [2025/05] **WavReward: Spoken Dialogue Models With Generalist Reward Evaluators** [[paper](https://www.arxiv.org/pdf/2505.09558)][[code](https://github.com/jishengpeng/WavReward)] *Code Comming Soon*
 - [2025/03] **Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities** [[paper](https://www.arxiv.org/abs/2503.04721)][[code](https://github.com/DanielLin94144/Full-Duplex-Bench)]
