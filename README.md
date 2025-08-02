@@ -354,6 +354,7 @@
 
 ### Benchmark
 
+
 - [2025/07] **FD-Bench: A Full-Duplex Benchmarking Pipeline Designed for Full Duplex Spoken Dialogue Systems** [[paper](https://www.arxiv.org/abs/2507.19040)][[code](https://github.com/pengyizhou/FD-Bench)]
 - [2025/06] **InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems** [[paper](https://www.arxiv.org/abs/2506.16381)][[code](https://github.com/KexinHUANG19/InstructTTSEval)]
 - [2025/05] **WavReward: Spoken Dialogue Models With Generalist Reward Evaluators** [[paper](https://www.arxiv.org/pdf/2505.09558)][[code](https://github.com/jishengpeng/WavReward)] *Code Comming Soon*
