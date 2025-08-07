@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/08] **SecoustiCodec: Cross-Modal Aligned Streaming Single-Codecbook Speech Codec** [[paper](https://www.arxiv.org/abs/2508.02849)][[demo](https://qiangchunyu.github.io/SecoustiCodec_Page/)]
 - [2025/07] **HH-Codec: High Compression High-fidelity Discrete Neural Codec for Spoken Language Modeling** [[paper](https://www.arxiv.org/abs/2507.18897)][[code](https://github.com/opendilab/HH-Codec)]
 - [2025/06] **XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in LowBitrate Speech Codecs** [[paper](https://arxiv.org/abs/2506.23325)][[code](https://github.com/gyt1145028706/XY-Tokenizer)]
 - [2025/06] **DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding** [[paper](https://arxiv.org/abs/2506.22362)]
