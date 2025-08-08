@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/08] **SpectroStream: A Versatile Neural Codec for General Audio** [[paper](https://www.arxiv.org/abs/2508.05207)]
 - [2025/08] **SecoustiCodec: Cross-Modal Aligned Streaming Single-Codecbook Speech Codec** [[paper](https://www.arxiv.org/abs/2508.02849)][[demo](https://qiangchunyu.github.io/SecoustiCodec_Page/)]
 - [2025/07] **HH-Codec: High Compression High-fidelity Discrete Neural Codec for Spoken Language Modeling** [[paper](https://www.arxiv.org/abs/2507.18897)][[code](https://github.com/opendilab/HH-Codec)]
 - [2025/06] **XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in LowBitrate Speech Codecs** [[paper](https://arxiv.org/abs/2506.23325)][[code](https://github.com/gyt1145028706/XY-Tokenizer)]
@@ -173,6 +174,9 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/08] **NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations** [[paper](https://www.arxiv.org/abs/2508.04195)][[code](https://github.com/Hannieliao/NVSpeech)][[demo](https://nvspeech170k.github.io/#asr-demo-section)] :heavy_check_mark:
+- [2025/08] **Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech** [[paper](https://www.arxiv.org/abs/2508.04141)][[demo](https://t1235-ch.github.io/pgpt/)]
+- [2025/08] **A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding** [[paper](https://www.arxiv.org/abs/2508.05385)][[code](https://github.com/nonverbalspeech38k/nonverspeech38k)][[demo](https://nonverbalspeech38k.github.io/nonverspeech38k/)] :heavy_check_mark:
 - [2025/07] **TTS-1 Technical Report** [[paper](https://www.arxiv.org/abs/2507.21138)][[code](https://github.com/inworld-ai/tts)][[demo](https://inworld-ai.github.io/tts/)] :heavy_check_mark:
 - [2025/07] **MOSS: Text to Spoken Dialogue Generation** [[code](https://github.com/OpenMOSS/MOSS-TTSD)][[demo](https://www.open-moss.com/cn/moss-ttsd/)]
 - [2025/06] **Investigating Stochastic Methods for Prosody Modeling in Speech Synthesis** [[paper](https://arxiv.org/abs/2507.00227v1)][[code](https://github.com/DigitalPhonetics/IMS-Toucan/tree/StochasticProsodyModeling)]
@@ -282,6 +286,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/08] **MiDashengLM: Efficient Audio Understanding with General Audio Captions** [[paper](https://www.arxiv.org/abs/2508.03983)][[code](https://github.com/xiaomi-research/dasheng-lm)][[demo](https://xiaomi-research.github.io/dasheng-lm/)] :heavy_check_mark:
 - [2025/07] **ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching** [[paper](https://www.arxiv.org/abs/2507.09318)][[code](https://github.com/k2-fsa/ZipVoice)][[demo](https://zipvoice-dialog.github.io/)] :heavy_check_mark:
 - [2025/06] **vui** [[code](https://github.com/fluxions-ai/vui)][[demo](https://huggingface.co/spaces/fluxions/vui-space)]
 - [2025/06] **Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model** [[paper](https://arxiv.org/abs/2506.08967)]
@@ -421,6 +426,7 @@
 
 ## Music Generation
 
+- [2025/08] **Live Music Models** [[paper](https://www.arxiv.org/abs/2508.04651)][[code](https://github.com/magenta/magenta-realtime)]
 - [2025/06] **LeVo: High-Quality Song Generation with Multi-Preference Alignment** [[paper](https://arxiv.org/abs/2506.07520)][[code](https://github.com/tencent-ailab/songgeneration)][[demo](https://levo-demo.github.io/)] :heavy_check_mark:
 - [2025/05] **ACE-Step: A Step Towards Music Generation Foundation Model** [[paper](https://www.arxiv.org/abs/2506.00045)][[code](https://github.com/ace-step/ACE-Step)][[demo](https://ace-step.github.io/) :heavy_check_mark:
 - [2025/04] **Versatile Framework for Song Generation with Prompt-based Control** [[paper](https://arxiv.org/abs/2504.19062)][[demo](https://aaronz345.github.io/VersBandDemo/)]
