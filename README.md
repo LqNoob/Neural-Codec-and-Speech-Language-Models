@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/08] **NanoCodec: Towards High-Quality Ultra Fast Speech LLM Inference** [[paper](https://www.arxiv.org/abs/2508.05835)][[code](https://github.com/NVIDIA/NeMo)][[demo](https://edresson.github.io/NanoCodec/)] :heavy_check_mark:
 - [2025/08] **SpectroStream: A Versatile Neural Codec for General Audio** [[paper](https://www.arxiv.org/abs/2508.05207)]
 - [2025/08] **SecoustiCodec: Cross-Modal Aligned Streaming Single-Codecbook Speech Codec** [[paper](https://www.arxiv.org/abs/2508.02849)][[demo](https://qiangchunyu.github.io/SecoustiCodec_Page/)]
 - [2025/07] **HH-Codec: High Compression High-fidelity Discrete Neural Codec for Spoken Language Modeling** [[paper](https://www.arxiv.org/abs/2507.18897)][[code](https://github.com/opendilab/HH-Codec)]
@@ -286,6 +287,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/08] **Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance** [[paper](https://www.arxiv.org/abs/2508.07375)][[code](https://github.com/dreamtheater123/TurnGuide)][[demo](https://dreamtheater123.github.io/TurnGuide-Demo/)] :heavy_check_mark:
 - [2025/08] **MiDashengLM: Efficient Audio Understanding with General Audio Captions** [[paper](https://www.arxiv.org/abs/2508.03983)][[code](https://github.com/xiaomi-research/dasheng-lm)][[demo](https://xiaomi-research.github.io/dasheng-lm/)] :heavy_check_mark:
 - [2025/07] **ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching** [[paper](https://www.arxiv.org/abs/2507.09318)][[code](https://github.com/k2-fsa/ZipVoice)][[demo](https://zipvoice-dialog.github.io/)] :heavy_check_mark:
 - [2025/06] **vui** [[code](https://github.com/fluxions-ai/vui)][[demo](https://huggingface.co/spaces/fluxions/vui-space)]
