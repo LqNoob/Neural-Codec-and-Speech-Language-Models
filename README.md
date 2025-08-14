@@ -52,6 +52,8 @@
 
 ### Neural Codec Models
 
+- [2025/08] **Exploring Disentangled Neural Speech Codecs from Self-Supervised Representations** [[paper](https://www.arxiv.org/abs/2508.08399)]
+- [2025/08] **DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models** [[paper](https://www.arxiv.org/abs/2508.08961)][[code](https://github.com/lavendery/Unified-Understanding-and-Generalization)][[demo](https://lavendery.github.io/Unified-Understanding-and-Generalization-Demo/)] :heavy_check_mark:
 - [2025/08] **NanoCodec: Towards High-Quality Ultra Fast Speech LLM Inference** [[paper](https://www.arxiv.org/abs/2508.05835)][[code](https://github.com/NVIDIA/NeMo)][[demo](https://edresson.github.io/NanoCodec/)] :heavy_check_mark:
 - [2025/08] **SpectroStream: A Versatile Neural Codec for General Audio** [[paper](https://www.arxiv.org/abs/2508.05207)]
 - [2025/08] **SecoustiCodec: Cross-Modal Aligned Streaming Single-Codecbook Speech Codec** [[paper](https://www.arxiv.org/abs/2508.02849)][[demo](https://qiangchunyu.github.io/SecoustiCodec_Page/)]
