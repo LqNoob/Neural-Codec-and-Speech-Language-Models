@@ -177,6 +177,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/08] **VibeVoice: A Frontier Open-Source Text-to-Speech Model** [[paper](https://github.com/microsoft/VibeVoice/blob/main/report/TechnicalReport.pdf)][[code](https://github.com/microsoft/VibeVoice)][[demo](https://microsoft.github.io/VibeVoice/)] :heavy_check_mark:
 - [2025/08] **NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations** [[paper](https://www.arxiv.org/abs/2508.04195)][[code](https://github.com/Hannieliao/NVSpeech)][[demo](https://nvspeech170k.github.io/#asr-demo-section)] :heavy_check_mark:
 - [2025/08] **Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech** [[paper](https://www.arxiv.org/abs/2508.04141)][[demo](https://t1235-ch.github.io/pgpt/)]
 - [2025/08] **A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding** [[paper](https://www.arxiv.org/abs/2508.05385)][[code](https://github.com/nonverbalspeech38k/nonverspeech38k)][[demo](https://nonverbalspeech38k.github.io/nonverspeech38k/)] :heavy_check_mark:
