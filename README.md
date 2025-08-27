@@ -64,7 +64,7 @@
 - [2025/06] **USAD: Universal Speech and Audio Representation via Distillation** [[paper](https://www.arxiv.org/abs/2506.18843)][[HF](https://huggingface.co/MIT-SLS/USAD-Base)]
 - [2025/06] **Towards Bitrate-Efficient and Noise-Robust Speech Coding with Variable Bitrate RVQ** [[paper](https://www.arxiv.org/abs/2506.16538)][[code](https://github.com/yoongi43/NoiseRobustVRVQ)][[demo](https://yoongi43.github.io/noise_robust_vrvq/)] :heavy_check_mark:
 - [2025/06] **LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization** [[paper](https://www.arxiv.org/abs/2506.16738)]
-- [2025/06] **TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling** [[paper](https://hecheng0625.github.io/assets/pdf/Arxiv_TaDiCodec.pdf)][[code](https://github.com/open-mmlab/Amphion/tree/main/models/tts/tadicodec)][[demo](https://tadicodec.github.io/)] *Code Comming Soon*
+- [2025/06] **TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling** [[paper](https://www.arxiv.org/abs/2508.16790)][[code](https://github.com/HeCheng0625/Diffusion-Speech-Tokenizer)][[demo](https://tadicodec.github.io/)] :heavy_check_mark:
 - [2025/05] **MagiCodec: Simple Masked Gaussian-Injected Codec for High-Fidelity Reconstruction and Generation** [[paper](https://arxiv.org/abs/2506.00385)][[code](https://github.com/Ereboas/MagiCodec)] :heavy_check_mark:
 - [2025/05] **SwitchCodec: A High-Fidelity Nerual Audio Codec With Sparse Quantization** [[paper](https://www.arxiv.org/abs/2505.24437)]
 - [2025/05] **DS-Codec: Dual-Stage Training with Mirror-to-NonMirror Architecture Switching for Speech Codec** [[paper](https://www.arxiv.org/abs/2505.24314)][[demo](https://pppjchen.github.io/DSCodec/)]
