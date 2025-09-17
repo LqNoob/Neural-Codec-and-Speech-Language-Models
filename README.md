@@ -52,6 +52,10 @@
 
 ### Neural Codec Models
 
+- [2025/09] **FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs** [[paper](https://www.arxiv.org/abs/2509.11425)][[code](https://github.com/mubtasimahasan/FuseCodec)] :heavy_check_mark:
+- [2025/09] **CoDiCodec: Unifying Continuous and Discrete Compressed Representations of Audio** [[paper](https://arxiv.org/abs/2509.09836)][[code](https://github.com/SonyCSLParis/codicodec)] :heavy_check_mark:
+- [2025/09] **DeCodec: Rethinking Audio Codecs as Universal Disentangled Representation Learners** [[paper](https://arxiv.org/abs/2509.09201)][[demo](https://luo404.github.io/DeCodecV2/)]
+- [2025/09] **Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding** [[paper](https://www.arxiv.org/abs/2509.04685)][[demo](https://zhengrachel.github.io/VARSTok/)]
 - [2025/08] **Exploring Disentangled Neural Speech Codecs from Self-Supervised Representations** [[paper](https://www.arxiv.org/abs/2508.08399)]
 - [2025/08] **DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models** [[paper](https://www.arxiv.org/abs/2508.08961)][[code](https://github.com/lavendery/Unified-Understanding-and-Generalization)][[demo](https://lavendery.github.io/Unified-Understanding-and-Generalization-Demo/)] :heavy_check_mark:
 - [2025/08] **NanoCodec: Towards High-Quality Ultra Fast Speech LLM Inference** [[paper](https://www.arxiv.org/abs/2508.05835)][[code](https://github.com/NVIDIA/NeMo)][[demo](https://edresson.github.io/NanoCodec/)] :heavy_check_mark:
@@ -177,6 +181,9 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/09] **VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning** [[code](https://github.com/OpenBMB/VoxCPM)][[demo](https://openbmb.github.io/VoxCPM-demopage/)]
+- [2025/09] **FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot** [[paper](https://arxiv.org/abs/2509.02020)][[code](https://github.com/FireRedTeam/FireRedTTS2)][[demo](https://fireredteam.github.io/demos/firered_tts_2/)] :heavy_check_mark:
+- [2025/08] **AudioStory: Generating Long-Form Narrative Audio with Large Language Models** [[paper](https://arxiv.org/abs/2508.20088)][[code](https://github.com/TencentARC/AudioStory)] :heavy_check_mark:
 - [2025/08] **VibeVoice: A Frontier Open-Source Text-to-Speech Model** [[paper](https://www.arxiv.org/abs/2508.19205)][[code](https://github.com/microsoft/VibeVoice)][[demo](https://microsoft.github.io/VibeVoice/)] :heavy_check_mark:
 - [2025/08] **NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations** [[paper](https://www.arxiv.org/abs/2508.04195)][[code](https://github.com/Hannieliao/NVSpeech)][[demo](https://nvspeech170k.github.io/#asr-demo-section)] :heavy_check_mark:
 - [2025/08] **Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech** [[paper](https://www.arxiv.org/abs/2508.04141)][[demo](https://t1235-ch.github.io/pgpt/)]
@@ -366,6 +373,7 @@
 
 ### Benchmark
 
+- [2025/09] **CodecBench: A Comprehensive Benchmark for Acoustic and Semantic Evaluation** [[paper](https://www.arxiv.org/abs/2508.20660)][[code](https://github.com/RayYuki/CodecBench)] :heavy_check_mark:
 - [2025/08] **Full-Duplex-Bench v1.5: Evaluating Overlap Handling for Full-Duplex Speech Models** [[paper](https://www.arxiv.org/abs/2507.23159)][[code](https://github.com/DanielLin94144/Full-Duplex-Bench)]
 - [2025/07] **FD-Bench: A Full-Duplex Benchmarking Pipeline Designed for Full Duplex Spoken Dialogue Systems** [[paper](https://www.arxiv.org/abs/2507.19040)][[code](https://github.com/pengyizhou/FD-Bench)]
 - [2025/06] **InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems** [[paper](https://www.arxiv.org/abs/2506.16381)][[code](https://github.com/KexinHUANG19/InstructTTSEval)]
