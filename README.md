@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/09] **MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement** [[paper](https://www.arxiv.org/abs/2509.13068)]
 - [2025/09] **FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs** [[paper](https://www.arxiv.org/abs/2509.11425)][[code](https://github.com/mubtasimahasan/FuseCodec)] :heavy_check_mark:
 - [2025/09] **CoDiCodec: Unifying Continuous and Discrete Compressed Representations of Audio** [[paper](https://arxiv.org/abs/2509.09836)][[code](https://github.com/SonyCSLParis/codicodec)] :heavy_check_mark:
 - [2025/09] **DeCodec: Rethinking Audio Codecs as Universal Disentangled Representation Learners** [[paper](https://arxiv.org/abs/2509.09201)][[demo](https://luo404.github.io/DeCodecV2/)]
@@ -464,6 +465,8 @@
 
 ## Speech DataSet
 
+- [2025/09] **SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding** [[paper](https://arxiv.org/abs/2509.14946)][[code](https://github.com/ShawnPi233/SynParaSpeech)] :heavy_check_mark:
+- [2025/09] **SpeechWeave: Diverse Multilingual Synthetic Text & Audio Data Generation Pipeline for Training Text to Speech Models** [[paper](https://www.arxiv.org/abs/2509.14270)]
 - [2025/06] **HiFiTTS-2: A Large-Scale High Bandwidth Speech Dataset** [[paper](https://arxiv.org/abs/2506.04152)][[dataset](https://huggingface.co/datasets/nvidia/hifitts-2)]
 - [2025/04] **DialogueAgents: A Hybrid Agent-Based Speech Synthesis Framework for Multi-Party Dialogue** [[paper](https://arxiv.org/abs/2504.14482)][[code](https://github.com/uirlx/DialogueAgents)][[demo](https://icme-topaz.vercel.app/)] *synthetic data* :heavy_check_mark:
 - [2025/04] **SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning** [[paper](https://arxiv.org/abs/2504.09081)]
