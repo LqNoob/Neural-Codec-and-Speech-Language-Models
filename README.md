@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/09] **FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation** [[paper](https://www.arxiv.org/abs/2509.16195)][[code](https://github.com/lucadellalib/focalcodec)] :heavy_check_mark:
 - [2025/09] **MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement** [[paper](https://www.arxiv.org/abs/2509.13068)]
 - [2025/09] **FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs** [[paper](https://www.arxiv.org/abs/2509.11425)][[code](https://github.com/mubtasimahasan/FuseCodec)] :heavy_check_mark:
 - [2025/09] **CoDiCodec: Unifying Continuous and Discrete Compressed Representations of Audio** [[paper](https://arxiv.org/abs/2509.09836)][[code](https://github.com/SonyCSLParis/codicodec)] :heavy_check_mark:
