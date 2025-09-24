@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/09] **MBCodec:Thorough disentangle for high-fidelity audio compression** [[paper](https://www.arxiv.org/abs/2509.17006)]
 - [2025/09] **FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation** [[paper](https://www.arxiv.org/abs/2509.16195)][[code](https://github.com/lucadellalib/focalcodec)] :heavy_check_mark:
 - [2025/09] **MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement** [[paper](https://www.arxiv.org/abs/2509.13068)]
 - [2025/09] **FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs** [[paper](https://www.arxiv.org/abs/2509.11425)][[code](https://github.com/mubtasimahasan/FuseCodec)] :heavy_check_mark:
@@ -183,6 +184,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/09] **Audiobook-CC: Controllable Long-context Speech Generation for Multicast Audiobook** [[paper](https://www.arxiv.org/abs/2509.17516)][[demo](https://everest-ai.github.io/)]
 - [2025/09] **VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning** [[code](https://github.com/OpenBMB/VoxCPM)][[demo](https://openbmb.github.io/VoxCPM-demopage/)]
 - [2025/09] **FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot** [[paper](https://arxiv.org/abs/2509.02020)][[code](https://github.com/FireRedTeam/FireRedTTS2)][[demo](https://fireredteam.github.io/demos/firered_tts_2/)] :heavy_check_mark:
 - [2025/08] **AudioStory: Generating Long-Form Narrative Audio with Large Language Models** [[paper](https://arxiv.org/abs/2508.20088)][[code](https://github.com/TencentARC/AudioStory)] :heavy_check_mark:
