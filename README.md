@@ -53,6 +53,7 @@
 ### Neural Codec Models
 
 - [2025/10] **Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates** [[paper](https://arxiv.org/abs/2509.09550v2)][[code](https://github.com/neuphonic/neucodec)]
+- [2025/09] **Semantic-VAE: Semantic-Alignment Latent Representation for Better Speech Synthesis** [[paper](https://arxiv.org/abs/2509.22167)][[code](https://github.com/ZhikangNiu/Semantic-VAE)]
 - [2025/09] **MBCodec:Thorough disentangle for high-fidelity audio compression** [[paper](https://www.arxiv.org/abs/2509.17006)]
 - [2025/09] **FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation** [[paper](https://www.arxiv.org/abs/2509.16195)][[code](https://github.com/lucadellalib/focalcodec)] :heavy_check_mark:
 - [2025/09] **MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement** [[paper](https://www.arxiv.org/abs/2509.13068)]
