@@ -189,6 +189,7 @@
 
 - [2025/10] **neutts-air** [[code](https://github.com/neuphonic/neutts-air)]
 - [2025/10] **Flamed-TTS: Flow Matching Attention-Free Models for Efficient Generating and Dynamic Pacing Zero-shot Text-to-Speech** [[paper](https://www.arxiv.org/abs/2510.02848)][[code](https://github.com/flamed-tts/Flamed-TTS)][[demo](https://flamed-tts.github.io/)] :heavy_check_mark:
+- [2025/09] **DiaMoE-TTS: A Unified IPA-Based Dialect TTS Framework with Mixture-of-Experts and Parameter-Efficient Zero-Shot Adaptation** [[paper](https://www.arxiv.org/abs/2509.22727)][[code](https://github.com/GiantAILab/DiaMoE-TTS)] :heavy_check_mark:
 - [2025/09] **Audiobook-CC: Controllable Long-context Speech Generation for Multicast Audiobook** [[paper](https://www.arxiv.org/abs/2509.17516)][[demo](https://everest-ai.github.io/)]
 - [2025/09] **VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning** [[code](https://github.com/OpenBMB/VoxCPM)][[demo](https://openbmb.github.io/VoxCPM-demopage/)]
 - [2025/09] **FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot** [[paper](https://arxiv.org/abs/2509.02020)][[code](https://github.com/FireRedTeam/FireRedTTS2)][[demo](https://fireredteam.github.io/demos/firered_tts_2/)] :heavy_check_mark:
