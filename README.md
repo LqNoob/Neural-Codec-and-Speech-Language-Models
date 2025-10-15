@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/10] **BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis** [[paper](https://www.arxiv.org/abs/2510.11646)][[demo](https://test1562.github.io/demo/)]
 - [2025/10] **Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates** [[paper](https://arxiv.org/abs/2509.09550v2)][[code](https://github.com/neuphonic/neucodec)]
 - [2025/09] **Semantic-VAE: Semantic-Alignment Latent Representation for Better Speech Synthesis** [[paper](https://arxiv.org/abs/2509.22167)][[code](https://github.com/ZhikangNiu/Semantic-VAE)]
 - [2025/09] **MBCodec:Thorough disentangle for high-fidelity audio compression** [[paper](https://www.arxiv.org/abs/2509.17006)]
