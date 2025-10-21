@@ -52,8 +52,9 @@
 
 ### Neural Codec Models
 
+- [2025/10] **LDCodec: A high quality neural audio codec with low-complexity decoder** [[paper](https://www.arxiv.org/abs/2510.15364)]
 - [2025/10] **FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates** [[paper](https://arxiv.org/abs/2510.00981)][[code](https://github.com/amphionspace/flexicodec)][[demo](https://flexicodec.github.io/)] :heavy_check_mark:
-- [2025/10] **LongCat-Audio-Codec: An Audio Tokenizer and Detokenizer Solution Designed for Speech Large Language Models** [[paper](https://github.com/meituan-longcat/LongCat-Audio-Codec/blob/main/tech_report.pdf)][[code](https://github.com/meituan-longcat/LongCat-Audio-Codec)] :heavy_check_mark:
+- [2025/10] **LongCat-Audio-Codec: An Audio Tokenizer and Detokenizer Solution Designed for Speech Large Language Models** [[paper](https://www.arxiv.org/abs/2510.15227)][[code](https://github.com/meituan-longcat/LongCat-Audio-Codec)] :heavy_check_mark:
 - [2025/10] **BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis** [[paper](https://www.arxiv.org/abs/2510.11646)][[demo](https://test1562.github.io/demo/)]
 - [2025/10] **Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates** [[paper](https://arxiv.org/abs/2509.09550v2)][[code](https://github.com/neuphonic/neucodec)]
 - [2025/09] **Semantic-VAE: Semantic-Alignment Latent Representation for Better Speech Synthesis** [[paper](https://arxiv.org/abs/2509.22167)][[code](https://github.com/ZhikangNiu/Semantic-VAE)]
