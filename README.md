@@ -52,6 +52,9 @@
 
 ### Neural Codec Models
 
+- [2025/10] **SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization** [[paper](https://www.arxiv.org/abs/2510.16841)][[code](https://github.com/Soul-AILab/SAC)][[demo](https://sac-codec.github.io/)] :heavy_check_mark:
+- [2025/10] **MuseTok: Symbolic Music Tokenization for Generation and Semantic Understanding** [[paper](https://www.arxiv.org/abs/2510.16273)][[code](https://github.com/Yuer867/MuseTok)][[demo](https://musetok.github.io/)] :heavy_check_mark:
+- [2025/10] **U-Codec: Ultra Low Frame-rate Neural Speech Codec for Fast High-fidelity Speech Generation** [[paper](https://www.arxiv.org/abs/2510.16718)][[code](https://github.com/YangXusheng-yxs/CodecFormer_5Hz)][[demo](https://yangxusheng-yxs.github.io/U-Codec/)] :heavy_check_mark:
 - [2025/10] **LDCodec: A high quality neural audio codec with low-complexity decoder** [[paper](https://www.arxiv.org/abs/2510.15364)]
 - [2025/10] **FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates** [[paper](https://arxiv.org/abs/2510.00981)][[code](https://github.com/amphionspace/flexicodec)][[demo](https://flexicodec.github.io/)] :heavy_check_mark:
 - [2025/10] **LongCat-Audio-Codec: An Audio Tokenizer and Detokenizer Solution Designed for Speech Large Language Models** [[paper](https://www.arxiv.org/abs/2510.15227)][[code](https://github.com/meituan-longcat/LongCat-Audio-Codec)] :heavy_check_mark:
