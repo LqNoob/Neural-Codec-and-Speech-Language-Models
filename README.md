@@ -193,6 +193,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/10] **ParaStyleTTS: Toward Efficient and Robust Paralinguistic Style Control for Expressive Text-to-Speech Generation** [[paper](https://www.arxiv.org/abs/2510.18308)][[code](https://github.com/haoweilou/ParaStyleTTS)][[demo](https://parastyletts.github.io/ParaStyleTTS_Demo/)] :heavy_check_mark:
 - [2025/10] **neutts-air** [[code](https://github.com/neuphonic/neutts-air)]
 - [2025/10] **Flamed-TTS: Flow Matching Attention-Free Models for Efficient Generating and Dynamic Pacing Zero-shot Text-to-Speech** [[paper](https://www.arxiv.org/abs/2510.02848)][[code](https://github.com/flamed-tts/Flamed-TTS)][[demo](https://flamed-tts.github.io/)] :heavy_check_mark:
 - [2025/09] **DiaMoE-TTS: A Unified IPA-Based Dialect TTS Framework with Mixture-of-Experts and Parameter-Efficient Zero-Shot Adaptation** [[paper](https://www.arxiv.org/abs/2509.22727)][[code](https://github.com/GiantAILab/DiaMoE-TTS)] :heavy_check_mark:
