@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/10] **Speaking Clearly: A Simplified Whisper-Based Codec for Low-Bitrate Speech Coding** [[paper](https://www.arxiv.org/abs/2510.20504)][[code](https://github.com/ZhangXinWhut/SimWhisper-Codec)][[demo](https://zhangxinwhut.github.io/SimWhisper-Codec/)] :heavy_check_mark:
 - [2025/10] **SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization** [[paper](https://www.arxiv.org/abs/2510.16841)][[code](https://github.com/Soul-AILab/SAC)][[demo](https://sac-codec.github.io/)] :heavy_check_mark:
 - [2025/10] **MuseTok: Symbolic Music Tokenization for Generation and Semantic Understanding** [[paper](https://www.arxiv.org/abs/2510.16273)][[code](https://github.com/Yuer867/MuseTok)][[demo](https://musetok.github.io/)] :heavy_check_mark:
 - [2025/10] **U-Codec: Ultra Low Frame-rate Neural Speech Codec for Fast High-fidelity Speech Generation** [[paper](https://www.arxiv.org/abs/2510.16718)][[code](https://github.com/YangXusheng-yxs/CodecFormer_5Hz)][[demo](https://yangxusheng-yxs.github.io/U-Codec/)] :heavy_check_mark:
