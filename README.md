@@ -52,6 +52,9 @@
 
 ### Neural Codec Models
 
+- [2025/10] **Low Resource Audio Codec Challenge Track1: Transparency Codec** [[paper](https://crowdsourcing.cisco.com/lrac-challenge/2025/assets/files/2025_lrac_challenge_all_technical_reports_combined.pdf)][[demo](https://crowdsourcing.cisco.com/lrac-challenge/2025/results)]
+- [2025/10] **PhoenixCodec: Taming Neural Speech Coding for Extreme Low-Resource Scenarios** [[paper](https://www.arxiv.org/abs/2510.21196)][[demo](https://ggiggit.github.io/phoenixcodec.github.io/)]
+- [2025/10] **SpecTokenizer: A Lightweight Streaming Codec in the Compressed Spectrum Domain** [[paper](https://www.arxiv.org/abs/2510.21209)]
 - [2025/10] **Speaking Clearly: A Simplified Whisper-Based Codec for Low-Bitrate Speech Coding** [[paper](https://www.arxiv.org/abs/2510.20504)][[code](https://github.com/ZhangXinWhut/SimWhisper-Codec)][[demo](https://zhangxinwhut.github.io/SimWhisper-Codec/)] :heavy_check_mark:
 - [2025/10] **SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization** [[paper](https://www.arxiv.org/abs/2510.16841)][[code](https://github.com/Soul-AILab/SAC)][[demo](https://sac-codec.github.io/)] :heavy_check_mark:
 - [2025/10] **MuseTok: Symbolic Music Tokenization for Generation and Semantic Understanding** [[paper](https://www.arxiv.org/abs/2510.16273)][[code](https://github.com/Yuer867/MuseTok)][[demo](https://musetok.github.io/)] :heavy_check_mark:
