@@ -319,6 +319,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/10] **Neural audio codecs: how to get audio into LLMs** [[blog](https://kyutai.org/next/codec-explainer)][[code](https://github.com/kyutai-labs/nanoGPTaudio)]
 - [2025/08] **OSUM-EChat: Enhancing End-to-End Empathetic Spoken Chatbot via Understanding-Driven Spoken Dialogue** [[paper](https://www.arxiv.org/abs/2508.09600)][[code](https://github.com/ASLP-lab/OSUM)]
 - [2025/08] **Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance** [[paper](https://www.arxiv.org/abs/2508.07375)][[code](https://github.com/dreamtheater123/TurnGuide)][[demo](https://dreamtheater123.github.io/TurnGuide-Demo/)] :heavy_check_mark:
 - [2025/08] **MiDashengLM: Efficient Audio Understanding with General Audio Captions** [[paper](https://www.arxiv.org/abs/2508.03983)][[code](https://github.com/xiaomi-research/dasheng-lm)][[demo](https://xiaomi-research.github.io/dasheng-lm/)] :heavy_check_mark:
