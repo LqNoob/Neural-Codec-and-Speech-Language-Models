@@ -52,6 +52,8 @@
 
 ### Neural Codec Models
 
+- [2025/11] **BSCodec: A Band-Split Neural Codec for High-Quality Universal Audio Reconstruction** [[paper](https://arxiv.org/abs/2511.06150)][[code](https://github.com/whr-a/espnet/tree/bscodec)][[demo]()]
+- [2025/10] **UniTok-Audio: A Unified Audio Generation Framework Via Universal Discrete Token** [[paper](https://arxiv.org/abs/2510.26372)][[code](https://github.com/alibaba/unified-audio)][[demo](https://alibaba.github.io/unified-audio/)] :heavy_check_mark:
 - [2025/10] **Low Resource Audio Codec Challenge Track1: Transparency Codec** [[paper](https://crowdsourcing.cisco.com/lrac-challenge/2025/assets/files/2025_lrac_challenge_all_technical_reports_combined.pdf)][[demo](https://crowdsourcing.cisco.com/lrac-challenge/2025/results)]
 - [2025/10] **PhoenixCodec: Taming Neural Speech Coding for Extreme Low-Resource Scenarios** [[paper](https://www.arxiv.org/abs/2510.21196)][[demo](https://ggiggit.github.io/phoenixcodec.github.io/)]
 - [2025/10] **SpecTokenizer: A Lightweight Streaming Codec in the Compressed Spectrum Domain** [[paper](https://www.arxiv.org/abs/2510.21209)]
@@ -319,6 +321,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/11] **Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation** [[paper](https://www.arxiv.org/abs/2511.05516)][[code](https://github.com/inclusionAI/Ming-UniAudio)][[demo](https://xqacmer.github.io/Ming-Unitok-Audio.github.io/)] :heavy_check_mark:
 - [2025/10] **Neural audio codecs: how to get audio into LLMs** [[blog](https://kyutai.org/next/codec-explainer)][[code](https://github.com/kyutai-labs/nanoGPTaudio)]
 - [2025/08] **OSUM-EChat: Enhancing End-to-End Empathetic Spoken Chatbot via Understanding-Driven Spoken Dialogue** [[paper](https://www.arxiv.org/abs/2508.09600)][[code](https://github.com/ASLP-lab/OSUM)]
 - [2025/08] **Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance** [[paper](https://www.arxiv.org/abs/2508.07375)][[code](https://github.com/dreamtheater123/TurnGuide)][[demo](https://dreamtheater123.github.io/TurnGuide-Demo/)] :heavy_check_mark:
