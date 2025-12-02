@@ -52,6 +52,7 @@
 
 ### Neural Codec Models
 
+- [2025/12] **PURE Codec: Progressive Unfolding of Residual Entropy for Speech Codec Learning** [[paper](https://www.arxiv.org/abs/2511.22687)][[code](https://github.com/ftshijt/espnet/tree/se_dac)]
 - [2025/11] **BSCodec: A Band-Split Neural Codec for High-Quality Universal Audio Reconstruction** [[paper](https://arxiv.org/abs/2511.06150)][[code](https://github.com/whr-a/espnet/tree/bscodec)][[demo]()]
 - [2025/10] **UniTok-Audio: A Unified Audio Generation Framework Via Universal Discrete Token** [[paper](https://arxiv.org/abs/2510.26372)][[code](https://github.com/alibaba/unified-audio)][[demo](https://alibaba.github.io/unified-audio/)] :heavy_check_mark:
 - [2025/10] **Low Resource Audio Codec Challenge Track1: Transparency Codec** [[paper](https://crowdsourcing.cisco.com/lrac-challenge/2025/assets/files/2025_lrac_challenge_all_technical_reports_combined.pdf)][[demo](https://crowdsourcing.cisco.com/lrac-challenge/2025/results)]
