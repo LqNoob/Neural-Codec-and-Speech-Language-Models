@@ -200,6 +200,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2025/12] **GLM-TTS Technical Report** [[paper](https://www.arxiv.org/abs/2512.14291)][[code](https://github.com/zai-org/GLM-TTS)] :heavy_check_mark:
 - [2025/12] **DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec** [[paper](https://www.arxiv.org/abs/2512.13251)][[code](https://github.com/disco-speech/DisCo-Speech)][[demo](https://disco-speech.github.io/DisCo-demo/)]
 - [2025/12] **M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis** [[paper](https://www.arxiv.org/abs/2512.04720)][[code](https://github.com/WWWWxp/M3-TTS)][[demo](https://wwwwxp.github.io/M3-TTS-Demo/)] :heavy_check_mark:
 - [2025/10] **SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity** [[paper](https://www.arxiv.org/abs/2510.23541)][[code](https://github.com/Soul-AILab/SoulX-Podcast)][[demo](https://soul-ailab.github.io/soulx-podcast/)] :heavy_check_mark:
