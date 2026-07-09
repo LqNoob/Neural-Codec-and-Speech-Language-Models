@@ -325,6 +325,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2025/12] **Fun-ASR-Nano-2512: LLM-based multilingual ASR model** [[code](https://github.com/FunAudioLLM/Fun-ASR)][[model](https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512)] :heavy_check_mark:
 - [2025/11] **Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation** [[paper](https://www.arxiv.org/abs/2511.05516)][[code](https://github.com/inclusionAI/Ming-UniAudio)][[demo](https://xqacmer.github.io/Ming-Unitok-Audio.github.io/)] :heavy_check_mark:
 - [2025/10] **Neural audio codecs: how to get audio into LLMs** [[blog](https://kyutai.org/next/codec-explainer)][[code](https://github.com/kyutai-labs/nanoGPTaudio)]
 - [2025/08] **OSUM-EChat: Enhancing End-to-End Empathetic Spoken Chatbot via Understanding-Driven Spoken Dialogue** [[paper](https://www.arxiv.org/abs/2508.09600)][[code](https://github.com/ASLP-lab/OSUM)]
@@ -460,6 +461,7 @@
 - [2024/11] **FLowHigh: Towards efficient and high-quality audio super-resolution with single-step flow matching** [[code](https://github.com/jjunak-yun/FLowHigh_code)][[demo](https://jjunak-yun.github.io/FLowHigh/)] :heavy_check_mark:
 - [2024/11] **O1 Replication Journey: A Strategic Progress Report -- Part 1** [[paper](https://arxiv.org/abs/2410.18982)][[code](https://github.com/GAIR-NLP/O1-Journey/)] :heavy_check_mark:
 - [2024/11] **LLaMA-O1: Open Large Reasoning Model Frameworks For Training, Inference and Evaluation With PyTorch and HuggingFace** [[code](https://github.com/SimpleBerry/LLaMA-O1)] :heavy_check_mark:
+- [2024/07] **SenseVoice: Multilingual speech understanding with ASR, emotion recognition, and audio event detection** [[paper](https://arxiv.org/abs/2407.04051)][[code](https://github.com/FunAudioLLM/SenseVoice)][[model](https://huggingface.co/FunAudioLLM/SenseVoiceSmall)] :heavy_check_mark:
 - [2024/07] **Speech-Copilot: Leveraging Large Language Models for Speech Processing via Task Decomposition, Modularization, and Program Generation** [[paper](https://arxiv.org/abs/2407.09886)][[code](https://github.com/kuan2jiu99/speech-copilot)][[demo](https://sites.google.com/view/slt2024-demo-page)] :heavy_check_mark:
 - [2024/07] **Stable Audio Open** [[paper](https://arxiv.org/abs/2407.14358)] [[code](https://huggingface.co/stabilityai/stable-audio-open-1.0)] :heavy_check_mark:
 - [2024/05] **EmoLLM(心理健康大模型)** [[code](https://github.com/SmartFlowAI/EmoLLM/blob/main/generate_data/tutorial.md)][[demo](https://openxlab.org.cn/apps/detail/Farewell1/EmoLLMV2.0)] :heavy_check_mark:
