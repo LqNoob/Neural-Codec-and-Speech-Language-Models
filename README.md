@@ -325,6 +325,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2026/10] **Batched Speech Decisions Without Decoding: Single-Token Supervision Lets a Frozen LLM Hear Beyond the Transcript** [[paper](https://arxiv.org/abs/2610.02638)][[code](https://github.com/adventists-ai/duplexjev)][[demo](https://huggingface.co/spaces/BitKnight/DuplexJev)] *DuplexJev: turn-taking & paralinguistic decisions from a frozen speech LLM* :heavy_check_mark:
 - [2025/12] **Fun-ASR-Nano-2512: LLM-based multilingual ASR model** [[code](https://github.com/FunAudioLLM/Fun-ASR)][[model](https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512)] :heavy_check_mark:
 - [2025/11] **Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation** [[paper](https://www.arxiv.org/abs/2511.05516)][[code](https://github.com/inclusionAI/Ming-UniAudio)][[demo](https://xqacmer.github.io/Ming-Unitok-Audio.github.io/)] :heavy_check_mark:
 - [2025/10] **Neural audio codecs: how to get audio into LLMs** [[blog](https://kyutai.org/next/codec-explainer)][[code](https://github.com/kyutai-labs/nanoGPTaudio)]
