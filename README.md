@@ -200,6 +200,7 @@
 
 ### Zero-Shot Text-to-Speech Synthesizers
 
+- [2026/11] **LinnetTTS** [[code](https://github.com/VoxRT/LinnetTTS)][[demo](https://huggingface.co/spaces/VoxRT/linnet-tts)][[checkpoints](https://huggingface.co/VoxRT/linnet-en-35m)] *41M on-device TTS | voice cloning | flow LM over continuous-latent codec | Rust runtime | real-time on phone CPU* 
 - [2025/12] **GLM-TTS Technical Report** [[paper](https://www.arxiv.org/abs/2512.14291)][[code](https://github.com/zai-org/GLM-TTS)] :heavy_check_mark:
 - [2025/12] **DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec** [[paper](https://www.arxiv.org/abs/2512.13251)][[code](https://github.com/disco-speech/DisCo-Speech)][[demo](https://disco-speech.github.io/DisCo-demo/)]
 - [2025/12] **M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis** [[paper](https://www.arxiv.org/abs/2512.04720)][[code](https://github.com/WWWWxp/M3-TTS)][[demo](https://wwwwxp.github.io/M3-TTS-Demo/)] :heavy_check_mark:
