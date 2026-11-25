@@ -326,6 +326,7 @@
 
 #### End-to-End (Paradigms) Models
 
+- [2026/11] **Oruk Fourier 2B: Open-Weight 2B English Speech-Language ASR Model (Qwen3-ASR)** [[model](https://huggingface.co/oruk/oruk-fourier-2b)][[demo](https://huggingface.co/spaces/oruk/oruk-fourier-2b)][[benchmarks](https://oruk.ai/benchmarks)] *CC BY-NC 4.0 weights | 5.52% Open ASR v1.16.3 avg WER (#1 single-model open-weights) | BF16 / GGUF / ONNX / MLX* :heavy_check_mark:
 - [2026/10] **Batched Speech Decisions Without Decoding: Single-Token Supervision Lets a Frozen LLM Hear Beyond the Transcript** [[paper](https://arxiv.org/abs/2610.02638)][[code](https://github.com/adventists-ai/duplexjev)][[demo](https://huggingface.co/spaces/BitKnight/DuplexJev)] *DuplexJev: turn-taking & paralinguistic decisions from a frozen speech LLM* :heavy_check_mark:
 - [2025/12] **Fun-ASR-Nano-2512: LLM-based multilingual ASR model** [[code](https://github.com/FunAudioLLM/Fun-ASR)][[model](https://huggingface.co/FunAudioLLM/Fun-ASR-Nano-2512)] :heavy_check_mark:
 - [2025/11] **Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation** [[paper](https://www.arxiv.org/abs/2511.05516)][[code](https://github.com/inclusionAI/Ming-UniAudio)][[demo](https://xqacmer.github.io/Ming-Unitok-Audio.github.io/)] :heavy_check_mark:
